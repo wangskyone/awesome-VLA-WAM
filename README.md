@@ -41,6 +41,7 @@ alignment, online planning, or robustness evaluation.
 
 ### Video-Generation-Based WAM
 
+- **MotuBrain**, MotuBrain: An Advanced World Action Model for Robot Control. [arXiv](https://arxiv.org/abs/2604.27792) [Website](https://www.shengshu.com/en/motubrain)
 - **GigaWorld-Policy**, GigaWorld-Policy: An Efficient Action-Centered World-Action Model. [arXiv](https://arxiv.org/abs/2603.17240) [Website](https://gigaai-research.github.io/GigaWorld-Policy/)
 - **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination? [arXiv](https://arxiv.org/abs/2603.16666) [Website](https://yuantianyuan01.github.io/FastWAM/)
 - **DreamZero**, World Action Models are Zero-shot Policies. [arXiv](https://arxiv.org/abs/2602.15922) [Website](https://dreamzero0.github.io)
@@ -88,6 +89,7 @@ These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
+- **Sentinel-VLA**, Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery. [arXiv](https://arxiv.org/abs/2605.01191)
 - **WAV**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [arXiv](https://arxiv.org/abs/2604.01985) [Website](https://world-action-verifier.github.io)
 - **EVOLVE-VLA**, EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2512.14666) [Website](https://showlab.github.io/EVOLVE-VLA/)
 - **VLAW**, VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. [arXiv](https://arxiv.org/abs/2602.12063) [Website](https://sites.google.com/view/vlaw-arxiv)
@@ -111,6 +113,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
+- **Latent Bridge**, Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. [arXiv](https://arxiv.org/abs/2605.02739)
 - **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [arXiv](https://arxiv.org/abs/2512.04952)
 - **FAST**, FAST: Efficient Action Tokenization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2501.09747) [Website](https://www.pi.website/research/fast)
 - **OpenVLA-OFT**, Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. [arXiv](https://arxiv.org/abs/2502.19645) [Website](https://openvla-oft.github.io)
