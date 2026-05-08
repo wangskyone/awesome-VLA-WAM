@@ -1,3 +1,5 @@
-.DS_Store
-Thumbs.db
-scripts/
+*
+!README.md
+!assets/
+!assets/**
+!.gitignore
