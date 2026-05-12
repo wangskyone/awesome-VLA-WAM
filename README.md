@@ -41,6 +41,7 @@ alignment, online planning, or robustness evaluation.
 
 ### Video-Generation-Based WAM
 
+- **NoiseGate**, NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models. [arXiv](https://arxiv.org/abs/2605.07794)
 - **OA-WAM**, OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation. [arXiv](https://arxiv.org/abs/2605.06481)
 - **MotuBrain**, MotuBrain: An Advanced World Action Model for Robot Control. [arXiv](https://arxiv.org/abs/2604.27792) [Website](https://www.shengshu.com/en/motubrain)
 - **GigaWorld-Policy**, GigaWorld-Policy: An Efficient Action-Centered World-Action Model. [arXiv](https://arxiv.org/abs/2603.17240) [Website](https://gigaai-research.github.io/GigaWorld-Policy/)
@@ -61,6 +62,7 @@ alignment, online planning, or robustness evaluation.
 ### VLM-Based WAM
 
 - **pi0.7**, pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [Website](https://www.pi.website/blog/pi07)
+- **CKT-WAM**, CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models. [arXiv](https://arxiv.org/abs/2605.06247) [Code](https://github.com/YuhuaJiang2002/CKT-WAM)
 - **VLAW**, VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. [arXiv](https://arxiv.org/abs/2602.12063) [Website](https://sites.google.com/view/vlaw-arxiv)
 - **WoG**, World Guidance World Modeling in Condition Space for Action Generation. [arXiv](https://arxiv.org/abs/2602.22010) [Website](https://selen-suyue.github.io/WoGNet/)
 - **VLA-JEPA**, VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. [arXiv](https://arxiv.org/abs/2602.10098) [Website](https://ginwind.github.io/VLA-JEPA/)
@@ -91,7 +93,9 @@ These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
+- **AT-VLA**, AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.07308) [Website](https://sites.google.com/view/at-vla)
 - **When to Trust Imagination**, When to Trust Imagination: Adaptive Action Execution for World Action Models. [arXiv](https://arxiv.org/abs/2605.06222)
+- **VLA-ATTC**, VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model. [arXiv](https://arxiv.org/abs/2605.01194)
 - **Sentinel-VLA**, Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery. [arXiv](https://arxiv.org/abs/2605.01191)
 - **ReconVLA**, ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control. [arXiv](https://arxiv.org/abs/2604.16677)
 - **WAV**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [arXiv](https://arxiv.org/abs/2604.01985) [Website](https://world-action-verifier.github.io)
@@ -109,6 +113,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Compression, Adaptation, and Model Merging
 
+- **DA-PTQ**, DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2604.11572)
 - **HBVLA**, HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2602.13710)
 - **MergeVLA**, MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. [arXiv](https://arxiv.org/abs/2511.18810) [Website](https://mergevla.github.io)
 - **VLA-Adapter**, VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. [arXiv](https://arxiv.org/abs/2509.09372) [Website](https://vla-adapter.github.io)
@@ -117,6 +122,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
+- **OneWM-VLA**, One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy. [arXiv](https://arxiv.org/abs/2605.07931)
 - **ConsisVLA-4D**, ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation. [arXiv](https://arxiv.org/abs/2605.05126) [Website](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)
 - **Latent Bridge**, Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. [arXiv](https://arxiv.org/abs/2605.02739)
 - **PokeVLA**, PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance. [arXiv](https://arxiv.org/abs/2604.20834) [Website](https://getterupper.github.io/PokeVLA)
