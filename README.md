@@ -32,6 +32,7 @@ alignment, online planning, or robustness evaluation.
 
 ## Surveys and Definitions
 
+- **World Action Models: The Next Frontier in Embodied AI.** [arXiv](https://arxiv.org/abs/2605.12090) [Website](https://openmoss.github.io)
 - **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [arXiv](https://arxiv.org/abs/2307.15818) [Website](https://robotics-transformer2.github.io)
 - **DreamZero**, World Action Models are Zero-shot Policies. [arXiv](https://arxiv.org/abs/2602.15922) [Website](https://dreamzero0.github.io)
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [arXiv](https://arxiv.org/abs/2505.04769) [Website](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
@@ -93,6 +94,7 @@ These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
+- **Failing Forward**, Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.08434)
 - **AT-VLA**, AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.07308) [Website](https://sites.google.com/view/at-vla)
 - **When to Trust Imagination**, When to Trust Imagination: Adaptive Action Execution for World Action Models. [arXiv](https://arxiv.org/abs/2605.06222)
 - **VLA-ATTC**, VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model. [arXiv](https://arxiv.org/abs/2605.01194)
@@ -126,6 +128,7 @@ self-evaluation, or policy/world-model co-improvement.
 - **ConsisVLA-4D**, ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation. [arXiv](https://arxiv.org/abs/2605.05126) [Website](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)
 - **Latent Bridge**, Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. [arXiv](https://arxiv.org/abs/2605.02739)
 - **PokeVLA**, PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance. [arXiv](https://arxiv.org/abs/2604.20834) [Website](https://getterupper.github.io/PokeVLA)
+- **StreamingVLA**, StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation. [arXiv](https://arxiv.org/abs/2603.28565) [Website](https://ghahahahag.github.io/StreamingVLA_Website/)
 - **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [arXiv](https://arxiv.org/abs/2512.04952)
 - **FAST**, FAST: Efficient Action Tokenization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2501.09747) [Website](https://www.pi.website/research/fast)
 - **OpenVLA-OFT**, Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. [arXiv](https://arxiv.org/abs/2502.19645) [Website](https://openvla-oft.github.io)
