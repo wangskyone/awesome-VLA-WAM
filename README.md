@@ -96,6 +96,7 @@ These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
+- **VLAs-as-Tools**, Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.13119)
 - **RePO-VLA**, RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.09410)
 - **Failing Forward**, Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.08434)
 - **AT-VLA**, AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.07308) [Website](https://sites.google.com/view/at-vla)
@@ -129,6 +130,7 @@ self-evaluation, or policy/world-model co-improvement.
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
 - **A1**, A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model. [arXiv](https://arxiv.org/abs/2604.05672)
+- **Premover**, Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete. [arXiv](https://arxiv.org/abs/2605.12160)
 - **OneWM-VLA**, One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy. [arXiv](https://arxiv.org/abs/2605.07931)
 - **ConsisVLA-4D**, ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation. [arXiv](https://arxiv.org/abs/2605.05126) [Website](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)
 - **Latent Bridge**, Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. [arXiv](https://arxiv.org/abs/2605.02739)
