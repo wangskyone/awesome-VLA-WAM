@@ -42,6 +42,7 @@ alignment, online planning, or robustness evaluation.
 
 ### Video-Generation-Based WAM
 
+- **WorldVLN**, WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation. [arXiv](https://arxiv.org/abs/2605.15964) [Website](https://embodiedcity.github.io/WorldVLN/)
 - **HarmoWAM**, HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models. [arXiv](https://arxiv.org/abs/2605.10942)
 - **NoiseGate**, NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models. [arXiv](https://arxiv.org/abs/2605.07794)
 - **OA-WAM**, OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation. [arXiv](https://arxiv.org/abs/2605.06481)
@@ -97,6 +98,7 @@ when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
 - **VLAs-as-Tools**, Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.13119)
+- **A3**, Dynamic Execution Commitment of Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.11567)
 - **RePO-VLA**, RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.09410)
 - **Failing Forward**, Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.08434)
 - **AT-VLA**, AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2605.07308) [Website](https://sites.google.com/view/at-vla)
@@ -122,6 +124,7 @@ self-evaluation, or policy/world-model co-improvement.
 ### Compression, Adaptation, and Model Merging
 
 - **DA-PTQ**, DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2604.11572)
+- **DyQ-VLA**, DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2603.07904)
 - **HBVLA**, HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. [arXiv](https://arxiv.org/abs/2602.13710)
 - **MergeVLA**, MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. [arXiv](https://arxiv.org/abs/2511.18810) [Website](https://mergevla.github.io)
 - **VLA-Adapter**, VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. [arXiv](https://arxiv.org/abs/2509.09372) [Website](https://vla-adapter.github.io)
