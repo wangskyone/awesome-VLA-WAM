@@ -40,7 +40,7 @@ Section badges indicate the last curated refresh date for each category.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--05--20-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--05--22-0A7F5A?labelColor=333333)
 
 ### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--05--20-0A7F5A?labelColor=333333)
 
@@ -64,10 +64,11 @@ Section badges indicate the last curated refresh date for each category.
 - **GR-1**, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b?labelColor=333333)](https://arxiv.org/abs/2312.13139) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://gr1-manipulation.github.io)
 - **UniPi**, Learning Universal Policies via Text-Guided Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2302.00111-b31b1b?labelColor=333333)](https://arxiv.org/abs/2302.00111) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://universal-policy.github.io/unipi/)
 
-### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--05--20-0A7F5A?labelColor=333333)
+### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--05--22-0A7F5A?labelColor=333333)
 
 - **pi0.7**, pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://www.pi.website/blog/pi07)
 - **CKT-WAM**, CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.06247-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.06247) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/YuhuaJiang2002/CKT-WAM)
+- **World-Value-Action Model**, World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems. [![arXiv](https://img.shields.io/badge/arXiv-2604.14732-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.14732)
 - **VLAW**, VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.12063-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.12063) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://sites.google.com/view/vlaw-arxiv)
 - **WoG**, World Guidance World Modeling in Condition Space for Action Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.22010-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.22010) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://selen-suyue.github.io/WoGNet/)
 - **VLA-JEPA**, VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.10098-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.10098) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://ginwind.github.io/VLA-JEPA/)
