@@ -132,6 +132,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
 
+- **EXPO-FT**, EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.25477-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.25477)
 - **Agentic-VLA**, Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.22896-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.22896)
 - **DA-PTQ**, DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.11572-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.11572)
 - **DyQ-VLA**, DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.07904-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.07904)
