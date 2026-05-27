@@ -40,7 +40,7 @@ Section badges indicate the last curated refresh date for each category.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
 
 ### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--05--20-0A7F5A?labelColor=333333)
 
@@ -81,9 +81,10 @@ Section badges indicate the last curated refresh date for each category.
 - **FLARE**, FLARE: Robot Learning with Implicit World Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2505.15659-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.15659) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://research.nvidia.com/labs/gear/flare)
 - **UP-VLA**, UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. [![arXiv](https://img.shields.io/badge/arXiv-2501.18867-b31b1b?labelColor=333333)](https://arxiv.org/abs/2501.18867) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/CladernyJorn/UP-VLA)
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
 
 - **JOPAT**, Point Tracking Improves World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.23856-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.23856)
+- **STARRY**, STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2604.26848-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.26848)
 - **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [Paper](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://research.beingbeyond.com/being-h07)
 - **DexWorldModel**, DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2604.16484-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.16484)
 - **WAV**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [![arXiv](https://img.shields.io/badge/arXiv-2604.01985-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.01985) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://world-action-verifier.github.io)
@@ -95,7 +96,7 @@ Section badges indicate the last curated refresh date for each category.
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b?labelColor=333333)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/InternRobotics/Seer)
 - **DreamerV3**, Mastering Diverse Domains through World Models. [![arXiv](https://img.shields.io/badge/arXiv-2301.04104-b31b1b?labelColor=333333)](https://arxiv.org/abs/2301.04104) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://danijar.com/project/dreamerv3/)
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
 
 These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
@@ -117,6 +118,7 @@ self-evaluation, or policy/world-model co-improvement.
 - **STRONG-VLA**, STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations. [![arXiv](https://img.shields.io/badge/arXiv-2604.10055-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.10055)
 - **WAV**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [![arXiv](https://img.shields.io/badge/arXiv-2604.01985-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.01985) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://world-action-verifier.github.io)
 - **ADV**, Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.18091-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.18091)
+- **SPR**, See, Plan, Rewind: Progress-Aware Vision-Language-Action Models for Robust Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.09292-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.09292)
 - **EVOLVE-VLA**, EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.14666-b31b1b?labelColor=333333)](https://arxiv.org/abs/2512.14666) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://showlab.github.io/EVOLVE-VLA/)
 - **VLAW**, VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.12063-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.12063) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://sites.google.com/view/vlaw-arxiv)
 - **RISE**, RISE: Self-Improving Robot Policy with Compositional World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.11075-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.11075) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/OpenDriveLab/RISE)
@@ -128,7 +130,7 @@ self-evaluation, or policy/world-model co-improvement.
 - **CronusVLA**, CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2506.19816-b31b1b?labelColor=333333)](https://arxiv.org/abs/2506.19816) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://lihaohn.github.io/CronusVLA.github.io/)
 - **AVA-VLA**, AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. [![arXiv](https://img.shields.io/badge/arXiv-2511.18960-b31b1b?labelColor=333333)](https://arxiv.org/abs/2511.18960)
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
 
 ### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--05--25-0A7F5A?labelColor=333333)
 
@@ -142,9 +144,10 @@ self-evaluation, or policy/world-model co-improvement.
 - **FLOWER**, FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. [![arXiv](https://img.shields.io/badge/arXiv-2509.04996-b31b1b?labelColor=333333)](https://arxiv.org/abs/2509.04996) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://intuitive-robots.github.io/flower_vla/)
 - **TinyVLA**, TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.12514-b31b1b?labelColor=333333)](https://arxiv.org/abs/2409.12514) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://tiny-vla.github.io)
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--05--23-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
 
 - **CrossVLA**, Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.21854-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.21854) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/lz-googlefycy/vla-lab)
+- **VLA-AD**, Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation. [![arXiv](https://img.shields.io/badge/arXiv-2605.16241-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.16241)
 - **A1**, A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2604.05672-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.05672)
 - **Compression Gap**, The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling. [![arXiv](https://img.shields.io/badge/arXiv-2604.03191-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.03191) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://shibattic.com/compression-gap/)
 - **Premover**, Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete. [![arXiv](https://img.shields.io/badge/arXiv-2605.12160-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.12160)
