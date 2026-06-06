@@ -43,7 +43,7 @@ kept in the linked archive documents.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--05--28-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--06-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -60,8 +60,9 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 - **World-VLA-Loop**, World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy. [![arXiv](https://img.shields.io/badge/arXiv-2602.06508-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.06508) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://showlab.github.io/World-VLA-Loop/)
 - **Lingbot-VA**, Causal World Modeling for Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b?labelColor=333333)](https://arxiv.org/abs/2601.21998) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://technology.robbyant.com/lingbot-va)
 
-### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--05--22-0A7F5A?labelColor=333333)
+### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--06-0A7F5A?labelColor=333333)
 
+- **WLA**, World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2606.05979-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.05979)
 - **CKT-WAM**, CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.06247-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.06247) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/YuhuaJiang2002/CKT-WAM)
 - **World-Value-Action Model**, World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems. [![arXiv](https://img.shields.io/badge/arXiv-2604.14732-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.14732)
 - **WoG**, World Guidance World Modeling in Condition Space for Action Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.22010-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.22010) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://selen-suyue.github.io/WoGNet/)
@@ -86,7 +87,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 - **UWM**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b?labelColor=333333)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://weirdlabuw.github.io/uwm/)
 - **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b?labelColor=333333)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://unified-video-action-model.github.io)
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--05--27-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--06--06-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -94,6 +95,7 @@ These papers are useful entry points for failure-aware VLA systems, especially
 when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
+- **ADV**, Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.18091-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.18091)
 - **pi0-EqM**, pi0-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control. [![arXiv](https://img.shields.io/badge/arXiv-2605.23128-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.23128)
 - **Pre-VLA**, Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts. [![arXiv](https://img.shields.io/badge/arXiv-2605.22446-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.22446)
 - **StableVLA**, StableVLA: Towards Robust Vision-Language-Action Models without Extra Data. [![arXiv](https://img.shields.io/badge/arXiv-2605.18287-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.18287)
