@@ -43,14 +43,15 @@ kept in the linked archive documents.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--11-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--12-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--11-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--12-0A7F5A?labelColor=333333)
 
 - **AGRA**, Making Foresight Actionable: Repurposing Representation Alignment in World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.12217-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.12217)
 - **AHA-WAM**, AHA-WAM: Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing. [![arXiv](https://img.shields.io/badge/arXiv-2606.09811-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.09811)
+- **OSCAR**, OSCAR: Omni-Embodiment Skeleton-Conditioned World Action Model for Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2606.04463-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.04463)
 - **WorldVLN**, WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation. [![arXiv](https://img.shields.io/badge/arXiv-2605.15964-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.15964) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://embodiedcity.github.io/WorldVLN/)
 - **HarmoWAM**, HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.10942-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.10942)
 - **NoiseGate**, NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.07794-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.07794)
@@ -110,7 +111,7 @@ self-evaluation, or policy/world-model co-improvement.
 - **AT-VLA**, AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.07308-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.07308) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://sites.google.com/view/at-vla)
 - **When to Trust Imagination**, When to Trust Imagination: Adaptive Action Execution for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.06222-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.06222)
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--11-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--12-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -127,10 +128,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 - **MergeVLA**, MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. [![arXiv](https://img.shields.io/badge/arXiv-2511.18810-b31b1b?labelColor=333333)](https://arxiv.org/abs/2511.18810) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://mergevla.github.io)
 - **VLA-Adapter**, VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.09372-b31b1b?labelColor=333333)](https://arxiv.org/abs/2509.09372) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://vla-adapter.github.io)
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--06--11-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--06--12-0A7F5A?labelColor=333333)
 
 - **Efficient-WAM**, Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination. [![arXiv](https://img.shields.io/badge/arXiv-2606.10040-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.10040)
 - **Light-WAM**, Light-WAM: Efficient World Action Models with State-Fusion Action Decoding. [![arXiv](https://img.shields.io/badge/arXiv-2606.08242-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.08242)
+- **vla.cpp**, vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.08094-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.08094) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://fai-modelopt-tech.github.io/vla-cpp.github.io/)
 - **ElegantVLA**, ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.29438-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.29438)
 - **CrossVLA**, Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.21854-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.21854) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/lz-googlefycy/vla-lab)
 - **VLA-AD**, Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation. [![arXiv](https://img.shields.io/badge/arXiv-2605.16241-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.16241)
