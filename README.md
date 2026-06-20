@@ -43,12 +43,13 @@ kept in the linked archive documents.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--19-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--20-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--16-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--20-0A7F5A?labelColor=333333)
 
+- **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://zhangwenyao1.github.io/ImageWAM/)
 - **WAM4D**, WAM4D: A Fast 4D World Action Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.14048-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.14048)
 - **MaskWAM**, MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.13515-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.13515) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://hanyangyu1021.github.io/maskwam.github.io/)
 - **NavWAM**, NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation. [![arXiv](https://img.shields.io/badge/arXiv-2606.13494-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.13494) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://dachii-azm.github.io/navwam/)
