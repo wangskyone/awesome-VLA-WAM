@@ -2,9 +2,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated reading list for Vision-Language-Action (VLA) and World Action Model
-(WAM) research, with an emphasis on:
+A curated reading list for Vision-Language-Action (VLA), World Action Model
+(WAM), and agentic robotics research, organized around four active directions:
 
+- Agentic robotics for long-horizon embodied agents, tool use, reusable skill
+  libraries, and policy self-improvement.
 - World Action Models for robotics.
 - Failure detection, correction, feedback, and recovery in VLA systems.
 - Efficient VLA models, action tokenization, compression, and deployment.
@@ -15,7 +17,10 @@ A curated reading list for Vision-Language-Action (VLA) and World Action Model
 
 This seed list was extracted from
 [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
-and reorganized around the three directions above. The failure
+and reorganized around the four directions above. The agentic robotics section
+highlights a new trend where robot foundation models are embedded inside
+broader agent loops for planning, tool use, self-improvement, and long-horizon
+execution. The failure
 detection/correction section is not a one-to-one heading in the source
 repository; it groups papers that are closely related through environment
 feedback, self-improvement, verification, closed-loop learning, preference
@@ -23,6 +28,7 @@ alignment, online planning, or robustness evaluation.
 
 ## Contents
 
+- [Agentic Robotics (New Trend)](#agentic-robotics-new-trend)
 - [Surveys and Definitions](#surveys-and-definitions)
 - [World Action Models](#world-action-models) ([full archive](WORLD_ACTION_MODELS.md))
 - [VLA Failure Detection and Correction](#vla-failure-detection-and-correction) ([full archive](VLA_FAILURE_DETECTION_AND_CORRECTION.md))
@@ -34,6 +40,19 @@ Section badges indicate the last curated refresh date for each category.
 The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
+
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--06--21-0A7F5A?labelColor=333333)
+
+This emerging line treats robot foundation models as components inside a
+broader agent loop, combining high-level planning, tool use, reusable skill
+libraries, policy self-improvement, and long-horizon execution.
+
+- **ENPIRE**, ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.19980-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19980)
+- **Playful Agentic Robot Learning**, Playful Agentic Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.19419-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19419) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://playful-rats.github.io/)
+- **Qwen-RobotNav**, Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System. [![arXiv](https://img.shields.io/badge/arXiv-2606.18112-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.18112) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://qwen.ai/blog?id=qwen-robotnav)
+- **VLAs-as-Tools**, Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.13119-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.13119)
+- **RoboClaw**, RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2603.11558-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.11558) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://roboclaw-agibot.github.io/)
+- **SELF-VLA**, SELF-VLA: A Skill Enhanced Agentic Vision-Language-Action Framework for Contact-Rich Disassembly. [![arXiv](https://img.shields.io/badge/arXiv-2603.11080-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.11080)
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--05--20-0A7F5A?labelColor=333333)
 
@@ -101,7 +120,6 @@ when the method uses feedback, online adaptation, closed-loop correction,
 self-evaluation, or policy/world-model co-improvement.
 
 - **Tri-Info**, Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory. [![arXiv](https://img.shields.io/badge/arXiv-2606.19998-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19998)
-- **ENPIRE**, ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.19980-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19980)
 - **DREAM-Chunk**, DREAM-Chunk: Reactive Action Chunking with Latent World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.17258-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.17258)
 - **ROVE**, ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.17011-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.17011) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://xpeng-robotics.github.io/rove/)
 - **Self-Improving VLA Policies**, Self-Improving VLA Policies through Online Reinforcement Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.14084-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.14084)
@@ -113,7 +131,6 @@ self-evaluation, or policy/world-model co-improvement.
 - **Pre-VLA**, Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts. [![arXiv](https://img.shields.io/badge/arXiv-2605.22446-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.22446)
 - **StableVLA**, StableVLA: Towards Robust Vision-Language-Action Models without Extra Data. [![arXiv](https://img.shields.io/badge/arXiv-2605.18287-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.18287)
 - **Health-Conditioned VLA**, Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2605.16056-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.16056) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/h-arslan/health-aware-vla)
-- **VLAs-as-Tools**, Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.13119-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.13119)
 - **A3**, Dynamic Execution Commitment of Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.11567-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.11567)
 
 ## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--21-0A7F5A?labelColor=333333)
