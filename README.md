@@ -41,12 +41,13 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--06--23-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
 
 This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
 libraries, policy self-improvement, and long-horizon execution.
 
+- **HoloAgent-0**, HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.23565-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.23565) [![Code](https://img.shields.io/badge/Code-GitHub-24292F?labelColor=333333)](https://github.com/HorizonRobotics/HoloAgent)
 - **ENPIRE**, ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.19980-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19980)
 - **Playful Agentic Robot Learning**, Playful Agentic Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.19419-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19419) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://playful-rats.github.io/)
 - **Qwen-RobotNav**, Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System. [![arXiv](https://img.shields.io/badge/arXiv-2606.18112-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.18112) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://qwen.ai/blog?id=qwen-robotnav)
@@ -64,12 +65,13 @@ libraries, policy self-improvement, and long-horizon execution.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--24-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--23-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
 
+- **NavWM**, NavWM: A Unified Navigation World Model for Foresight-Driven Planning. [![arXiv](https://img.shields.io/badge/arXiv-2606.24101-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.24101)
 - **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://zhangwenyao1.github.io/ImageWAM/)
 - **Metis**, Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation. [![arXiv](https://img.shields.io/badge/arXiv-2606.15869-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.15869)
 - **WAM4D**, WAM4D: A Fast 4D World Action Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.14048-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.14048)
@@ -141,7 +143,7 @@ self-evaluation, or policy/world-model co-improvement.
 - **Health-Conditioned VLA**, Health-Conditioned Vision-Language-Action Models for Malfunction-Aware Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2605.16056-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.16056) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/h-arslan/health-aware-vla)
 - **A3**, Dynamic Execution Commitment of Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.11567-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.11567)
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--23-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -160,8 +162,9 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 - **MergeVLA**, MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. [![arXiv](https://img.shields.io/badge/arXiv-2511.18810-b31b1b?labelColor=333333)](https://arxiv.org/abs/2511.18810) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://mergevla.github.io)
 - **VLA-Adapter**, VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.09372-b31b1b?labelColor=333333)](https://arxiv.org/abs/2509.09372) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://vla-adapter.github.io)
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--06--23-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
 
+- **UniFS**, UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.22794-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.22794) [![Code](https://img.shields.io/badge/Code-GitHub-24292F?labelColor=333333)](https://github.com/linsun449/UniFS)
 - **Fewer-Layer VLA Finetuning**, Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think. [![arXiv](https://img.shields.io/badge/arXiv-2606.20246-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.20246)
 - **Acting While Understanding**, Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.15285-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.15285)
 - **AVA-VLA**, Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.15099-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.15099)
