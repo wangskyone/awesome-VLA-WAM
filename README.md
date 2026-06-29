@@ -47,7 +47,7 @@ This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
 libraries, policy self-improvement, and long-horizon execution.
 
-- **LLawCo**, LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior. [![arXiv](https://img.shields.io/badge/arXiv-2606.28182-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.28182) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://www.merl.com/research/highlights/LLawCo)
+- **RAVEN**, RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory for Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2606.25206-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.25206)
 - **OmniAct**, Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. [![arXiv](https://img.shields.io/badge/arXiv-2606.27251-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.27251)
 - **HoloAgent-0**, HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.23565-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.23565) [![Code](https://img.shields.io/badge/Code-GitHub-24292F?labelColor=333333)](https://github.com/HorizonRobotics/HoloAgent)
 - **ENPIRE**, ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. [![arXiv](https://img.shields.io/badge/arXiv-2606.19980-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19980)
