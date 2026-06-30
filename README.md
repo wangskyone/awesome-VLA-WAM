@@ -41,12 +41,13 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--06--29-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--06--30-0A7F5A?labelColor=333333)
 
 This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
 libraries, policy self-improvement, and long-horizon execution.
 
+- **Analytic Concept-Centric Memory**, Analytic Concept-Centric Memory for Agentic Embodied Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.29774-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.29774)
 - **RAVEN**, RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory for Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2606.25206-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.25206)
 - **OmniAct**, Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. [![arXiv](https://img.shields.io/badge/arXiv-2606.27251-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.27251)
 - **HoloAgent-0**, HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory. [![arXiv](https://img.shields.io/badge/arXiv-2606.23565-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.23565) [![Code](https://img.shields.io/badge/Code-GitHub-24292F?labelColor=333333)](https://github.com/HorizonRobotics/HoloAgent)
@@ -67,12 +68,13 @@ libraries, policy self-improvement, and long-horizon execution.
 - **Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges.** [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b?labelColor=333333)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 - **A Survey on Vision-Language-Action Models for Embodied AI.** [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b?labelColor=333333)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/yueen-ma/Awesome-VLA)
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--29-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--06--30-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--25-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--06--30-0A7F5A?labelColor=333333)
 
+- **SWAM**, Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation. [![arXiv](https://img.shields.io/badge/arXiv-2606.29908-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.29908)
 - **NavWM**, NavWM: A Unified Navigation World Model for Foresight-Driven Planning. [![arXiv](https://img.shields.io/badge/arXiv-2606.24101-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.24101)
 - **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://zhangwenyao1.github.io/ImageWAM/)
 - **Metis**, Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation. [![arXiv](https://img.shields.io/badge/arXiv-2606.15869-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.15869)
