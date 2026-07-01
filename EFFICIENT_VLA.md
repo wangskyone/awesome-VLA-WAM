@@ -1,48 +1,65 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--06--14-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection.
 
 
-## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--06--14-0A7F5A?labelColor=333333)
+## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
 
-- **Omega-QVLA**, Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. [![arXiv](https://img.shields.io/badge/arXiv-2605.28803-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.28803) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/UCMP13753/Omega-QVLA)
-- **EXPO-FT**, EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.25477-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.25477)
-- **ActQuant**, ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.24011-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.24011) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://actquant.github.io/)
-- **Agentic-VLA**, Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.22896-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.22896)
-- **DA-PTQ**, DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2604.11572-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.11572)
-- **DyQ-VLA**, DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.07904-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.07904)
-- **QuantVLA**, QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.20309-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.20309) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://quantvla.github.io/)
-- **HBVLA**, HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.13710-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.13710)
-- **MergeVLA**, MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. [![arXiv](https://img.shields.io/badge/arXiv-2511.18810-b31b1b?labelColor=333333)](https://arxiv.org/abs/2511.18810) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://mergevla.github.io)
-- **VLA-Adapter**, VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.09372-b31b1b?labelColor=333333)](https://arxiv.org/abs/2509.09372) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://vla-adapter.github.io)
-- **FLOWER**, FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. [![arXiv](https://img.shields.io/badge/arXiv-2509.04996-b31b1b?labelColor=333333)](https://arxiv.org/abs/2509.04996) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://intuitive-robots.github.io/flower_vla/)
-- **TinyVLA**, TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.12514-b31b1b?labelColor=333333)](https://arxiv.org/abs/2409.12514) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://tiny-vla.github.io)
+| Paper | Title | Links |
+| --- | --- | --- |
+| Mix-QVLA | Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.19565) |
+| Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) |
+| Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) |
+| EXPO-FT | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.25477) |
+| ActQuant | ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.24011) · [Website](https://actquant.github.io/) |
+| Agentic-VLA | Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.22896) |
+| DA-PTQ | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2604.11572) |
+| DyQ-VLA | DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2603.07904) |
+| QuantVLA | QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.20309) · [Website](https://quantvla.github.io/) |
+| HBVLA | HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.13710) |
+| MergeVLA | MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. | [arXiv](https://arxiv.org/abs/2511.18810) · [Website](https://mergevla.github.io) |
+| VLA-Adapter | VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2509.09372) · [Website](https://vla-adapter.github.io) |
+| FLOWER | FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. | [arXiv](https://arxiv.org/abs/2509.04996) · [Website](https://intuitive-robots.github.io/flower_vla/) |
+| TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--06--14-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
 
-- **Real-Time Execution**, Real-Time Execution with Autoregressive Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.13355-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.13355)
-- **Efficient-WAM**, Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination. [![arXiv](https://img.shields.io/badge/arXiv-2606.10040-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.10040)
-- **Light-WAM**, Light-WAM: Efficient World Action Models with State-Fusion Action Decoding. [![arXiv](https://img.shields.io/badge/arXiv-2606.08242-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.08242)
-- **vla.cpp**, vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.08094-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.08094) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://fai-modelopt-tech.github.io/vla-cpp.github.io/)
-- **RhinoVLA**, RhinoVLA Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2606.07383-b31b1b?labelColor=333333)](https://arxiv.org/abs/2606.07383) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/HuixiAI/RhinoVLA)
-- **ElegantVLA**, ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.29438-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.29438)
-- **CrossVLA**, Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.21854-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.21854) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/lz-googlefycy/vla-lab)
-- **VLA-AD**, Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation. [![arXiv](https://img.shields.io/badge/arXiv-2605.16241-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.16241)
-- **Realtime-VLA FLASH**, Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs. [![arXiv](https://img.shields.io/badge/arXiv-2605.13778-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.13778)
-- **Premover**, Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete. [![arXiv](https://img.shields.io/badge/arXiv-2605.12160-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.12160)
-- **OneWM-VLA**, One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy. [![arXiv](https://img.shields.io/badge/arXiv-2605.07931-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.07931)
-- **ConsisVLA-4D**, ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.05126-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.05126) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)
-- **Latent Bridge**, Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. [![arXiv](https://img.shields.io/badge/arXiv-2605.02739-b31b1b?labelColor=333333)](https://arxiv.org/abs/2605.02739)
-- **PokeVLA**, PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance. [![arXiv](https://img.shields.io/badge/arXiv-2604.20834-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.20834) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://getterupper.github.io/PokeVLA)
-- **A1**, A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2604.05672-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.05672)
-- **Compression Gap**, The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling. [![arXiv](https://img.shields.io/badge/arXiv-2604.03191-b31b1b?labelColor=333333)](https://arxiv.org/abs/2604.03191) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://shibattic.com/compression-gap/)
-- **StreamingVLA**, StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation. [![arXiv](https://img.shields.io/badge/arXiv-2603.28565-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.28565) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://ghahahahag.github.io/StreamingVLA_Website/)
-- **ETA-VLA**, ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2603.25766-b31b1b?labelColor=333333)](https://arxiv.org/abs/2603.25766)
-- **SimVLA**, SimVLA: A Simple VLA Baseline for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.18224-b31b1b?labelColor=333333)](https://arxiv.org/abs/2602.18224) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://frontierrobo.github.io/SimVLA/)
-- **Fast-ThinkAct**, Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.09708-b31b1b?labelColor=333333)](https://arxiv.org/abs/2601.09708)
-- **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [![arXiv](https://img.shields.io/badge/arXiv-2512.04952-b31b1b?labelColor=333333)](https://arxiv.org/abs/2512.04952)
-- **VLA-0**, VLA-0: Building State-of-the-Art VLAs with Zero Modification. [![arXiv](https://img.shields.io/badge/arXiv-2510.13054-b31b1b?labelColor=333333)](https://arxiv.org/abs/2510.13054) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://vla0.github.io)
-- **SmolVLA**, SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2506.01844-b31b1b?labelColor=333333)](https://arxiv.org/abs/2506.01844) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://github.com/huggingface/lerobot)
-- **OpenVLA-OFT**, Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. [![arXiv](https://img.shields.io/badge/arXiv-2502.19645-b31b1b?labelColor=333333)](https://arxiv.org/abs/2502.19645) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://openvla-oft.github.io)
-- **FAST**, FAST: Efficient Action Tokenization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2501.09747-b31b1b?labelColor=333333)](https://arxiv.org/abs/2501.09747) [![Website](https://img.shields.io/badge/Website-Link-0A66C2?labelColor=333333)](https://www.pi.website/research/fast)
+| Paper | Title | Links |
+| --- | --- | --- |
+| SA-VLA | SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance. | [arXiv](https://arxiv.org/abs/2606.30113) |
+| SpikeVLA | SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks. | [arXiv](https://arxiv.org/abs/2606.27807) |
+| FORCE | FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation. | [arXiv](https://arxiv.org/abs/2606.26006) |
+| Action ControlNet | Action ControlNet: A Lightweight Delay-Aware Adapter for Smooth Asynchronous Control in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.25985) |
+| UniFS | UniFS: Unified Fast-to-Slow Hierarchical Architecture for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.22794) · [Code](https://github.com/linsun449/UniFS) |
+| Fewer-Layer VLA Finetuning | Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think. | [arXiv](https://arxiv.org/abs/2606.20246) |
+| Acting While Understanding | Acting While Understanding: Asynchronous Semantic-Action Decoupling for Real-Time Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.15285) |
+| AVA-VLA | Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.15099) |
+| X-Tokenizer | X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Pretraining. | [arXiv](https://arxiv.org/abs/2606.14752) · [Website](https://x-square-robot.github.io/X-Tokenizer_projectPage/) |
+| Output-Level Regularization | Output-Level Regularization Eliminates the Seed Lottery in Single-GPU VLA Fine-Tuning. | [arXiv](https://arxiv.org/abs/2606.13856) |
+| Real-Time Execution | Real-Time Execution with Autoregressive Policies. | [arXiv](https://arxiv.org/abs/2606.13355) |
+| DAM-VLA | DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model. | [arXiv](https://arxiv.org/abs/2606.12105) · [Website](https://intuitive-robots.github.io/DAM-VLA/) |
+| Efficient-WAM | Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination. | [arXiv](https://arxiv.org/abs/2606.10040) |
+| Light-WAM | Light-WAM: Efficient World Action Models with State-Fusion Action Decoding. | [arXiv](https://arxiv.org/abs/2606.08242) |
+| vla.cpp | vla.cpp: A Unified Inference Runtime for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.08094) · [Website](https://fai-modelopt-tech.github.io/vla-cpp.github.io/) |
+| RhinoVLA | RhinoVLA Technical Report. | [arXiv](https://arxiv.org/abs/2606.07383) · [Website](https://github.com/HuixiAI/RhinoVLA) |
+| ElegantVLA | ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.29438) |
+| CrossVLA | Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.21854) · [Website](https://github.com/lz-googlefycy/vla-lab) |
+| VLA-AD | Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation. | [arXiv](https://arxiv.org/abs/2605.16241) |
+| Realtime-VLA FLASH | Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs. | [arXiv](https://arxiv.org/abs/2605.13778) |
+| Premover | Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete. | [arXiv](https://arxiv.org/abs/2605.12160) |
+| OneWM-VLA | One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy. | [arXiv](https://arxiv.org/abs/2605.07931) |
+| ConsisVLA-4D | ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2605.05126) · [Website](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D) |
+| Latent Bridge | Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference. | [arXiv](https://arxiv.org/abs/2605.02739) |
+| PokeVLA | PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance. | [arXiv](https://arxiv.org/abs/2604.20834) · [Website](https://getterupper.github.io/PokeVLA) |
+| A1 | A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2604.05672) |
+| Compression Gap | The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling. | [arXiv](https://arxiv.org/abs/2604.03191) · [Website](https://shibattic.com/compression-gap/) |
+| StreamingVLA | StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation. | [arXiv](https://arxiv.org/abs/2603.28565) · [Website](https://ghahahahag.github.io/StreamingVLA_Website/) |
+| ETA-VLA | ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2603.25766) |
+| SimVLA | SimVLA: A Simple VLA Baseline for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2602.18224) · [Website](https://frontierrobo.github.io/SimVLA/) |
+| Fast-ThinkAct | Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning. | [arXiv](https://arxiv.org/abs/2601.09708) |
+| FASTer | FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. | [arXiv](https://arxiv.org/abs/2512.04952) |
+| VLA-0 | VLA-0: Building State-of-the-Art VLAs with Zero Modification. | [arXiv](https://arxiv.org/abs/2510.13054) · [Website](https://vla0.github.io) |
+| SmolVLA | SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. | [arXiv](https://arxiv.org/abs/2506.01844) · [Website](https://github.com/huggingface/lerobot) |
+| OpenVLA-OFT | Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. | [arXiv](https://arxiv.org/abs/2502.19645) · [Website](https://openvla-oft.github.io) |
+| FAST | FAST: Efficient Action Tokenization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2501.09747) · [Website](https://www.pi.website/research/fast) |
