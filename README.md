@@ -41,7 +41,7 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
 
 This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
@@ -49,6 +49,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
 | Analytic Concept-Centric Memory | Analytic Concept-Centric Memory for Agentic Embodied Manipulation. | [arXiv](https://arxiv.org/abs/2606.29774) |
 | OmniAct | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. | [arXiv](https://arxiv.org/abs/2606.27251) |
 | RAVEN | RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory for Robotics. | [arXiv](https://arxiv.org/abs/2606.25206) |
@@ -58,12 +59,12 @@ libraries, policy self-improvement, and long-horizon execution.
 | Qwen-RobotNav | Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System. | [arXiv](https://arxiv.org/abs/2606.18112) · [Website](https://qwen.ai/blog?id=qwen-robotnav) |
 | FCGraft | Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents. | [arXiv](https://arxiv.org/abs/2606.13097) |
 | Embodied-R1.5 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models. | [arXiv](https://arxiv.org/abs/2606.11324) · [Website](https://embodied-r1.github.io/) · [Code](https://github.com/Embodied-R1/Embodied-R1) |
-| VLAs-as-Tools | Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.13119) |
 
-## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| From World Models to World Action Models | From World Models to World Action Models: A Concise Tutorial for Robotics. | [arXiv](https://arxiv.org/abs/2607.00836) · [Website](https://clearlab-sustech.github.io/WorldModelSurvey/) · [Code](https://github.com/clearlab-sustech/WorldModelSurvey) |
 | World Action Models: The Next Frontier in Embodied AI. | World Action Models: The Next Frontier in Embodied AI. | [arXiv](https://arxiv.org/abs/2605.12090) · [Website](https://openmoss.github.io) |
 | DreamZero | World Action Models are Zero-shot Policies. | [arXiv](https://arxiv.org/abs/2602.15922) · [Website](https://dreamzero0.github.io) |
 | Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. | Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. | [arXiv](https://arxiv.org/abs/2505.04769) · [Website](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges) |
@@ -119,7 +120,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) |
 | RepWAM | RepWAM: World Action Modeling with Representation Visual-Action Tokenizers. | [arXiv](https://arxiv.org/abs/2606.13674) · [Website](https://wdrink.github.io/RepWAM) |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -129,6 +130,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| DART | Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts. | [arXiv](https://arxiv.org/abs/2607.00666) · [Website](https://twkang43.github.io/projects/dart/) · [Code](https://github.com/snumprlab/dart) |
 | PhysReflect-VLA | PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2606.27146) |
 | ROAD-VLA | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.25800) |
 | RECALL | RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.23617) |
@@ -138,16 +140,16 @@ self-evaluation, or policy/world-model co-improvement.
 | DREAM-Chunk | DREAM-Chunk: Reactive Action Chunking with Latent World Model. | [arXiv](https://arxiv.org/abs/2606.17258) |
 | ROVE | ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.17011) · [Website](https://xpeng-robotics.github.io/rove/) |
 | Self-Improving VLA Policies | Self-Improving VLA Policies through Online Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.14084) |
-| World Pilot | Steering Vision-Language-Action Models with World-Action Priors. | [arXiv](https://arxiv.org/abs/2606.12403) · [Website](https://world-pilot.github.io/) |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Parameter Redundancy in VLA | Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation. | [arXiv](https://arxiv.org/abs/2606.31382) · [Code](https://github.com/Niannnnnn/VLA_Parameter_Redundancy_VLM2VLA) |
 | Mix-QVLA | Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.19565) |
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) |
 | Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) |
@@ -157,7 +159,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | DA-PTQ | DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2604.11572) |
 | DyQ-VLA | DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2603.07904) |
 | QuantVLA | QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.20309) · [Website](https://quantvla.github.io/) |
-| HBVLA | HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.13710) |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
 
