@@ -41,7 +41,7 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--02-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
 
 This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
@@ -49,6 +49,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| VLAs-as-Tools | Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.13119) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
 | Analytic Concept-Centric Memory | Analytic Concept-Centric Memory for Agentic Embodied Manipulation. | [arXiv](https://arxiv.org/abs/2606.29774) |
 | OmniAct | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. | [arXiv](https://arxiv.org/abs/2606.27251) |
@@ -71,7 +72,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--04-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -105,11 +106,12 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | F1 | F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions. | [arXiv](https://arxiv.org/abs/2509.06951) · [Website](https://aopolin-lv.github.io/F1-VLA/) |
 | FlowVLA | FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2508.18269) · [Website](https://irpn-lab.github.io/FlowVLA/) |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--04-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | VT-WAM | VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation. | [arXiv](https://arxiv.org/abs/2607.02503) · [Website](https://vt-wam.github.io/) |
+| Bridge-WA | Bridge-WA: Predicting Where and How the World Changes for Robotic Action. | [arXiv](https://arxiv.org/abs/2607.02195) · [Website](https://hcplab-sysu.github.io/BRIDGE-WA) |
 | ABot-M0.5 | ABot-M0.5: Unified Mobility-and-Manipulation World Action Model. | [arXiv](https://arxiv.org/abs/2607.00678) · [Code](https://github.com/amap-cvlab/ABot-Manipulation) |
 | Synthetic-Prior Sim-to-Real WAM | Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors. | [arXiv](https://arxiv.org/abs/2606.31101) |
 | DIM-WAM | DIM-WAM: World-Action Modeling with Diverse Historical Event Memory. | [arXiv](https://arxiv.org/abs/2606.27677) · [Website](https://wangkai-casia.github.io/dim-wam/) |
