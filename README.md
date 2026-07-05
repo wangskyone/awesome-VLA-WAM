@@ -28,7 +28,7 @@ alignment, online planning, or robustness evaluation.
 
 ## Contents
 
-- [Agentic Robotics (New Trend)](#agentic-robotics-new-trend)
+- [Agentic Robotics (New Trend)](#agentic-robotics-new-trend) ([full archive](AGENTIC_ROBOTICS.md))
 - [Surveys and Definitions](#surveys-and-definitions)
 - [World Action Models](#world-action-models) ([full archive](WORLD_ACTION_MODELS.md))
 - [VLA Failure Detection and Correction](#vla-failure-detection-and-correction) ([full archive](VLA_FAILURE_DETECTION_AND_CORRECTION.md))
@@ -43,13 +43,14 @@ kept in the linked archive documents.
 
 ## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
 
+Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
+
 This emerging line treats robot foundation models as components inside a
 broader agent loop, combining high-level planning, tool use, reusable skill
 libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
-| VLAs-as-Tools | Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.13119) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
 | Analytic Concept-Centric Memory | Analytic Concept-Centric Memory for Agentic Embodied Manipulation. | [arXiv](https://arxiv.org/abs/2606.29774) |
 | OmniAct | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. | [arXiv](https://arxiv.org/abs/2606.27251) |
