@@ -73,7 +73,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -92,10 +92,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | AHA-WAM | AHA-WAM: Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing. | [arXiv](https://arxiv.org/abs/2606.09811) |
 | OSCAR | OSCAR: Omni-Embodiment Skeleton-Conditioned World Action Model for Robotics. | [arXiv](https://arxiv.org/abs/2606.04463) |
 
-### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| FutureNav | FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation. | [arXiv](https://arxiv.org/abs/2606.30367) |
 | WLA | World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis. | [arXiv](https://arxiv.org/abs/2606.05979) · [Website](https://github.com/SJTU-DENG-Lab/WLA) |
 | CKT-WAM | CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models. | [arXiv](https://arxiv.org/abs/2605.06247) · [Website](https://github.com/YuhuaJiang2002/CKT-WAM) |
 | World-Value-Action Model | World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems. | [arXiv](https://arxiv.org/abs/2604.14732) |
@@ -124,7 +125,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WAM-RL | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. | [arXiv](https://arxiv.org/abs/2606.17906) |
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--04-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -134,6 +135,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Guided Action Flow | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2607.02092) |
 | VLA-Corrector | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon. | [arXiv](https://arxiv.org/abs/2607.01804) |
 | Neuro-Symbolic Safety Guidance | Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching. | [arXiv](https://arxiv.org/abs/2607.01378) · [Website](https://willenglish.tech/projects/) |
 | DART | Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts. | [arXiv](https://arxiv.org/abs/2607.00666) · [Website](https://twkang43.github.io/projects/dart/) · [Code](https://github.com/snumprlab/dart) |
