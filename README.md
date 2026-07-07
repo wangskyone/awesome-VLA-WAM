@@ -41,7 +41,7 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--05-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -51,6 +51,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
 | Analytic Concept-Centric Memory | Analytic Concept-Centric Memory for Agentic Embodied Manipulation. | [arXiv](https://arxiv.org/abs/2606.29774) |
 | OmniAct | Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy. | [arXiv](https://arxiv.org/abs/2606.27251) |
@@ -73,7 +74,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -92,10 +93,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | AHA-WAM | AHA-WAM: Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing. | [arXiv](https://arxiv.org/abs/2606.09811) |
 | OSCAR | OSCAR: Omni-Embodiment Skeleton-Conditioned World Action Model for Robotics. | [arXiv](https://arxiv.org/abs/2606.04463) |
 
-### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
+### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| DSWAM | DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation. | [arXiv](https://arxiv.org/abs/2607.04927) |
 | FutureNav | FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation. | [arXiv](https://arxiv.org/abs/2606.30367) |
 | WLA | World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis. | [arXiv](https://arxiv.org/abs/2606.05979) · [Website](https://github.com/SJTU-DENG-Lab/WLA) |
 | CKT-WAM | CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models. | [arXiv](https://arxiv.org/abs/2605.06247) · [Website](https://github.com/YuhuaJiang2002/CKT-WAM) |
@@ -125,7 +127,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WAM-RL | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. | [arXiv](https://arxiv.org/abs/2606.17906) |
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--06-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -135,6 +137,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| TACO | TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training. | [arXiv](https://arxiv.org/abs/2607.02840) |
 | Guided Action Flow | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2607.02092) |
 | VLA-Corrector | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon. | [arXiv](https://arxiv.org/abs/2607.01804) |
 | Neuro-Symbolic Safety Guidance | Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching. | [arXiv](https://arxiv.org/abs/2607.01378) · [Website](https://willenglish.tech/projects/) |
@@ -148,7 +151,7 @@ self-evaluation, or policy/world-model co-improvement.
 | DREAM-Chunk | DREAM-Chunk: Reactive Action Chunking with Latent World Model. | [arXiv](https://arxiv.org/abs/2606.17258) |
 | ROVE | ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.17011) · [Website](https://xpeng-robotics.github.io/rove/) |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--04-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -168,10 +171,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | DyQ-VLA | DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2603.07904) |
 | QuantVLA | QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.20309) · [Website](https://quantvla.github.io/) |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--03-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--07-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| XS-VLA | XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control. | [arXiv](https://arxiv.org/abs/2607.04171) |
 | Embodied.cpp | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. | [arXiv](https://arxiv.org/abs/2607.02501) · [Code](https://github.com/AgibotTech/Embodied.cpp) |
 | SA-VLA | SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance. | [arXiv](https://arxiv.org/abs/2606.30113) |
 | SpikeVLA | SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks. | [arXiv](https://arxiv.org/abs/2606.27807) |
