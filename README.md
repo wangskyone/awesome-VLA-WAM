@@ -41,7 +41,7 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--10-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--11-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -51,6 +51,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Hindsight Gating | Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN. | [arXiv](https://arxiv.org/abs/2607.08504) · [Code](https://github.com/AravG13/bandwidth-constrained-cooperative-vln) |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) |
 | Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
@@ -75,14 +76,15 @@ libraries, policy self-improvement, and long-horizon execution.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--10-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--11-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--11-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Temporal Ratio | Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio. | [arXiv](https://arxiv.org/abs/2607.08127) · [Website](https://umishra.me/temporal-ratio/) |
 | SWAM | Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation. | [arXiv](https://arxiv.org/abs/2606.29908) |
 | NavWM | NavWM: A Unified Navigation World Model for Foresight-Driven Planning. | [arXiv](https://arxiv.org/abs/2606.24101) |
 | ImageWAM | ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? | [arXiv](https://arxiv.org/abs/2606.19531) · [Website](https://zhangwenyao1.github.io/ImageWAM/) |
@@ -131,7 +133,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WAM-RL | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. | [arXiv](https://arxiv.org/abs/2606.17906) |
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--09-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--11-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -141,6 +143,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| TFP | TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning. | [arXiv](https://arxiv.org/abs/2607.08283) |
 | Semantic Handoff Failures | Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition. | [arXiv](https://arxiv.org/abs/2607.06256) |
 | CamVLA | From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2607.05396) · [Website](https://alibaba-damo-academy.github.io/CamVLA/) |
 | TACO | TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training. | [arXiv](https://arxiv.org/abs/2607.02840) |
