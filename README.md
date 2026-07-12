@@ -41,7 +41,7 @@ The main paper sections below show the latest 10 entries for each direct
 list or subsection, sorted by available arXiv date/id. Full retained lists are
 kept in the linked archive documents.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--12-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--11-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -53,7 +53,6 @@ libraries, policy self-improvement, and long-horizon execution.
 | --- | --- | --- |
 | Hindsight Gating | Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN. | [arXiv](https://arxiv.org/abs/2607.08504) · [Code](https://github.com/AravG13/bandwidth-constrained-cooperative-vln) |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) |
-| FSD-VLN | FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation. | [arXiv](https://arxiv.org/abs/2607.08359) |
 | Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
 | Analytic Concept-Centric Memory | Analytic Concept-Centric Memory for Agentic Embodied Manipulation. | [arXiv](https://arxiv.org/abs/2606.29774) |
