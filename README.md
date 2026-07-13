@@ -57,7 +57,6 @@ scope.
 
 | Paper | Title | Links |
 | --- | --- | --- |
-| Hindsight Gating | Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN. | [arXiv](https://arxiv.org/abs/2607.08504) · [Code](https://github.com/AravG13/bandwidth-constrained-cooperative-vln) |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) |
 | Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) |
 | ASPIRE | ASPIRE: Agentic /Skills Discovery for Robotics. | [arXiv](https://arxiv.org/abs/2607.00272) · [Website](https://research.nvidia.com/labs/gear/aspire/) |
@@ -66,7 +65,6 @@ scope.
 | RAVEN | RAVEN: Long-Horizon Reasoning & Navigation with a Visuo-Spatio-Temporal Memory for Robotics. | [arXiv](https://arxiv.org/abs/2606.25206) |
 | HoloAgent-0 | HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory. | [arXiv](https://arxiv.org/abs/2606.23565) · [Code](https://github.com/HorizonRobotics/HoloAgent) |
 | ENPIRE | ENPIRE: Agentic Robot Policy Self-Improvement in the Real World. | [arXiv](https://arxiv.org/abs/2606.19980) |
-| Playful Agentic Robot Learning | Playful Agentic Robot Learning. | [arXiv](https://arxiv.org/abs/2606.19419) · [Website](https://playful-rats.github.io/) |
 | Qwen-RobotNav | Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System. | [arXiv](https://arxiv.org/abs/2606.18112) · [Website](https://qwen.ai/blog?id=qwen-robotnav) |
 | FCGraft | Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents. | [arXiv](https://arxiv.org/abs/2606.13097) |
 | Embodied-R1.5 | Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models. | [arXiv](https://arxiv.org/abs/2606.11324) · [Website](https://embodied-r1.github.io/) · [Code](https://github.com/Embodied-R1/Embodied-R1) |
