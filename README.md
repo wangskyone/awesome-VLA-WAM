@@ -5,8 +5,8 @@
 A curated reading list for Vision-Language-Action (VLA), World Action Model
 (WAM), and agentic robotics research, organized around four active directions:
 
-- Agentic robotics for long-horizon embodied agents, tool use, reusable skill
-  libraries, and policy self-improvement.
+- Agentic robotics for embodied agents that coordinate multi-step physical
+  tasks through planning, memory, tool or skill composition, and self-improvement.
 - World Action Models for robotics.
 - Failure detection, correction, feedback, and recovery in VLA systems.
 - Efficient VLA models, action tokenization, compression, and deployment.
@@ -18,9 +18,12 @@ A curated reading list for Vision-Language-Action (VLA), World Action Model
 This seed list was extracted from
 [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
 and reorganized around the four directions above. The agentic robotics section
-highlights a new trend where robot foundation models are embedded inside
-broader agent loops for planning, tool use, self-improvement, and long-horizon
-execution. The failure
+requires an explicit embodied-agent layer that coordinates multi-step physical
+execution through high-level planning, memory, tool or skill discovery and
+composition, VLA/VLM or policy orchestration, navigation, recovery, or online
+policy self-improvement. Standalone prompt optimization, generic exploration,
+or low-level VLA improvements without this agent-level role are out of scope.
+The failure
 detection/correction section is not a one-to-one heading in the source
 repository; it groups papers that are closely related through environment
 feedback, self-improvement, verification, closed-loop learning, preference
@@ -46,12 +49,14 @@ kept in the linked archive documents.
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
 This emerging line treats robot foundation models as components inside a
-broader agent loop, combining high-level planning, tool use, reusable skill
-libraries, policy self-improvement, and long-horizon execution.
+broader embodied-agent loop. Papers belong here only when the agent layer is
+central to coordinating physical multi-step execution through planning,
+memory, tool or skill composition, policy orchestration, navigation, recovery,
+or online self-improvement; standalone model or prompt improvements are out of
+scope.
 
 | Paper | Title | Links |
 | --- | --- | --- |
-| Prompt-Driven Exploration | Prompt-Driven Exploration. | [arXiv](https://arxiv.org/abs/2607.08837) · [Website](https://xinyunsunshine.github.io/prompt-rl) |
 | Hindsight Gating | Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN. | [arXiv](https://arxiv.org/abs/2607.08504) · [Code](https://github.com/AravG13/bandwidth-constrained-cooperative-vln) |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) |
 | Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) |
