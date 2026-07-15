@@ -12,8 +12,15 @@ A curated reading list for Vision-Language-Action (VLA), World Action Model
 - Efficient VLA models, action tokenization, compression, and deployment.
 
 <p align="center">
-  <img src="assets/awesome-vla-wam-hero.png" alt="Awesome VLA-WAM hero image" width="100%">
+  <img src="assets/awesome-vla-wam-hero-v2.png" alt="Awesome VLA-WAM hero image" width="100%">
 </p>
+
+<p align="center">
+  <img src="assets/vla-wam-papers-by-month.gif" alt="Animated monthly paper counts by category" width="100%">
+</p>
+
+The animation is regenerated from the arXiv identifiers in this README with
+[`scripts/generate_monthly_paper_chart.py`](scripts/generate_monthly_paper_chart.py).
 
 This seed list was extracted from
 [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)

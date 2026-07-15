@@ -2,4 +2,6 @@
 !README.md
 !assets/
 !assets/**
+!scripts/
+!scripts/generate_monthly_paper_chart.py
 !.gitignore
