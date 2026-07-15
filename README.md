@@ -19,7 +19,8 @@ A curated reading list for Vision-Language-Action (VLA), World Action Model
   <img src="assets/vla-wam-papers-by-month.gif" alt="Animated monthly paper counts by category" width="100%">
 </p>
 
-The animation is regenerated from the arXiv identifiers in this README with
+The animation tracks papers added since January 2026 and is regenerated from
+the arXiv identifiers in this README with
 [`scripts/generate_monthly_paper_chart.py`](scripts/generate_monthly_paper_chart.py).
 
 This seed list was extracted from

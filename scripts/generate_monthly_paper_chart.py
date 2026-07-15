@@ -20,6 +20,7 @@ from matplotlib.animation import FuncAnimation, PillowWriter
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_README = ROOT / "README.md"
 DEFAULT_OUTPUT = ROOT / "assets" / "vla-wam-papers-by-month.gif"
+CHART_START_MONTH = date(2026, 1, 1)
 ARXIV_ID = re.compile(r"arxiv\.org/abs/(\d{2})(\d{2})\.\d+")
 
 CATEGORY_LABELS = {
@@ -85,7 +86,8 @@ def month_sequence(start: date, end: date) -> list[date]:
 
 def render(counts: Counter[tuple[date, str]], output_path: Path, fps: int) -> None:
     present_months = sorted(month for month, _ in counts)
-    months = month_sequence(present_months[0], present_months[-1])
+    start_month = max(CHART_START_MONTH, present_months[0])
+    months = month_sequence(start_month, present_months[-1])
     values_by_month = [
         [counts[(month, category)] for category in CATEGORY_ORDER]
         for month in months
