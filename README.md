@@ -23,14 +23,12 @@ The animation tracks papers added since January 2026 and is regenerated from
 the arXiv identifiers in this README with
 [`scripts/generate_monthly_paper_chart.py`](scripts/generate_monthly_paper_chart.py).
 
-This seed list was extracted from
-[DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam)
-and reorganized around the four directions above. The agentic robotics section
-requires an explicit embodied-agent layer that coordinates multi-step physical
-execution through high-level planning, memory, tool or skill discovery and
-composition, VLA/VLM or policy orchestration, navigation, recovery, or online
-policy self-improvement. Standalone prompt optimization, generic exploration,
-or low-level VLA improvements without this agent-level role are out of scope.
+The agentic robotics section requires an explicit embodied-agent layer that
+coordinates multi-step physical execution through high-level planning, memory,
+tool or skill discovery and composition, VLA/VLM or policy orchestration,
+navigation, recovery, or online policy self-improvement. Standalone prompt
+optimization, generic exploration, or low-level VLA improvements without this
+agent-level role are out of scope.
 The failure
 detection/correction section is not a one-to-one heading in the source
 repository; it groups papers that are closely related through environment
