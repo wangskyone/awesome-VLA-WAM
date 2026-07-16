@@ -54,7 +54,7 @@ kept in the linked archive documents.
 
 Relevance: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -67,6 +67,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| PhysClaw-0 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections. | [arXiv](https://arxiv.org/abs/2607.14047) · [Website](https://open-gigaai.github.io/PhysClaw) | ⭐⭐⭐ |
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐⭐ |
 | PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) | ⭐⭐⭐ |
@@ -93,7 +94,7 @@ scope.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) | ⭐⭐ |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) | ⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -131,10 +132,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | F1 | F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions. | [arXiv](https://arxiv.org/abs/2509.06951) · [Website](https://aopolin-lv.github.io/F1-VLA/) | ⭐⭐⭐ |
 | FlowVLA | FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2508.18269) · [Website](https://irpn-lab.github.io/FlowVLA/) | ⭐⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) | ⭐⭐⭐ |
 | FlowDAgger | FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space. | [arXiv](https://arxiv.org/abs/2607.08877) · [Website](https://microsoft.github.io/FlowDAgger) | ⭐⭐⭐ |
 | EgoWAM | EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data. | [arXiv](https://arxiv.org/abs/2607.08436) · [Website](https://gatech-rl2.github.io/egowam.github.io) | ⭐⭐⭐ |
 | WAM-TTT | WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. | [arXiv](https://arxiv.org/abs/2607.06988) | ⭐⭐⭐ |
@@ -152,7 +154,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WAM-RL | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. | [arXiv](https://arxiv.org/abs/2606.17906) | ⭐⭐⭐ |
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -162,6 +164,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Robust Execution with Agentic RL | Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2607.13818) | ⭐⭐⭐ |
 | Artificial Foveated Perception | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models. | [arXiv](https://arxiv.org/abs/2607.10655) | ⭐⭐ |
 | Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) | ⭐⭐⭐ |
 | TFP | TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning. | [arXiv](https://arxiv.org/abs/2607.08283) | ⭐⭐ |
@@ -180,7 +183,7 @@ self-evaluation, or policy/world-model co-improvement.
 | SAVE | Uncertainty Quantification for Flow-Based Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.18043) · [Website](https://save-vla.github.io/) | ⭐⭐⭐ |
 | ROVE | ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.17011) · [Website](https://xpeng-robotics.github.io/rove/) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -201,10 +204,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | DyQ-VLA | DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2603.07904) | ⭐⭐⭐ |
 | QuantVLA | QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2602.20309) · [Website](https://quantvla.github.io/) | ⭐⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Jetson-PI | Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference. | [arXiv](https://arxiv.org/abs/2607.12659) · [Code](https://github.com/PKU-SEC-Lab/Jetson-PI) · [Inference Engine](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge) | ⭐⭐⭐ |
 | LoRA Fine-Tuning for VLA | On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.10172) | ⭐⭐⭐ |
 | CLAP | CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding. | [arXiv](https://arxiv.org/abs/2607.08974) · [Website](https://omron-sinicx.github.io/clap/) | ⭐⭐⭐ |
 | FabriVLA | FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation. | [arXiv](https://arxiv.org/abs/2607.08575) | ⭐⭐⭐ |
