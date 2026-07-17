@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Agent-Client Protocol | Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol. | [arXiv](https://arxiv.org/abs/2607.14919) | ⭐⭐⭐ |
 | PhysClaw-0 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections. | [arXiv](https://arxiv.org/abs/2607.14047) · [Website](https://open-gigaai.github.io/PhysClaw) | ⭐⭐⭐ |
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
 | PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
@@ -92,7 +93,7 @@ scope.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) | ⭐ |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) | ⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -130,10 +131,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | F1 | F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions. | [arXiv](https://arxiv.org/abs/2509.06951) · [Website](https://aopolin-lv.github.io/F1-VLA/) | ⭐ |
 | FlowVLA | FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2508.18269) · [Website](https://irpn-lab.github.io/FlowVLA/) | ⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| BadWAM | BadWAM: When World-Action Models Dream Right but Act Wrong. | [arXiv](https://arxiv.org/abs/2607.15207) | ⭐⭐⭐ |
 | GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) | ⭐⭐⭐ |
 | FlowDAgger | FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space. | [arXiv](https://arxiv.org/abs/2607.08877) · [Website](https://microsoft.github.io/FlowDAgger) | ⭐ |
 | EgoWAM | EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data. | [arXiv](https://arxiv.org/abs/2607.08436) · [Website](https://gatech-rl2.github.io/egowam.github.io) | ⭐⭐⭐ |
@@ -152,7 +154,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WAM-RL | WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. | [arXiv](https://arxiv.org/abs/2606.17906) | ⭐⭐ |
 | LaWAM | LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. | [arXiv](https://arxiv.org/abs/2606.15768) · [Website](https://github.com/RLinf/LaWAM) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -162,6 +164,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| CosFly-VLA | CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking. | [arXiv](https://arxiv.org/abs/2607.15004) | ⭐⭐⭐ |
 | Robust Execution with Agentic RL | Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2607.13818) | ⭐⭐⭐ |
 | Artificial Foveated Perception | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models. | [arXiv](https://arxiv.org/abs/2607.10655) | ⭐ |
 | Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) | ⭐⭐ |
@@ -181,14 +184,15 @@ self-evaluation, or policy/world-model co-improvement.
 | SAVE | Uncertainty Quantification for Flow-Based Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.18043) · [Website](https://save-vla.github.io/) | ⭐⭐ |
 | ROVE | ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.17011) · [Website](https://xpeng-robotics.github.io/rove/) | ⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--16-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) | ⭐⭐⭐ |
 | ExToken | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning. | [arXiv](https://arxiv.org/abs/2607.12931) | ⭐⭐ |
 | Z-1 | Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.31846) | ⭐⭐ |
 | Parameter Redundancy in VLA | Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation. | [arXiv](https://arxiv.org/abs/2606.31382) · [Code](https://github.com/Niannnnnn/VLA_Parameter_Redundancy_VLM2VLA) | ⭐ |
