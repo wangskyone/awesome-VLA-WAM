@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--18-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| RoboTTT | RoboTTT: Context Scaling for Robot Policies. | [arXiv](https://arxiv.org/abs/2607.15275) · [Website](https://research.nvidia.com/labs/gear/robottt/) | ⭐⭐⭐ |
 | Agent-Client Protocol | Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol. | [arXiv](https://arxiv.org/abs/2607.14919) | ⭐⭐⭐ |
 | PhysClaw-0 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections. | [arXiv](https://arxiv.org/abs/2607.14047) · [Website](https://open-gigaai.github.io/PhysClaw) | ⭐⭐⭐ |
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
