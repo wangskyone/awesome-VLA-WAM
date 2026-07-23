@@ -1,7 +1,7 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--01-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
-The README keeps only the latest 10 entries in the main section.
+The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
 
 
 These papers are useful entry points for failure-aware VLA systems, especially
@@ -10,6 +10,21 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) |
+| Closing the Loop in Humanoid VLA | Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2607.18016) |
+| AC-VLA | Robust Out-of-Distribution Action Execution via Compositional Learning. | [arXiv](https://arxiv.org/abs/2607.15714) |
+| CosFly-VLA | CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking. | [arXiv](https://arxiv.org/abs/2607.15004) |
+| Robust Execution with Agentic RL | Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2607.13818) |
+| Artificial Foveated Perception | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models. | [arXiv](https://arxiv.org/abs/2607.10655) |
+| Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) |
+| TFP | TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning. | [arXiv](https://arxiv.org/abs/2607.08283) |
+| Semantic Handoff Failures | Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition. | [arXiv](https://arxiv.org/abs/2607.06256) |
+| CamVLA | From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2607.05396) · [Website](https://alibaba-damo-academy.github.io/CamVLA/) |
+| TACO | TACO: TActile World Model as a Self-COrrector forScalable VLA Post-Training. | [arXiv](https://arxiv.org/abs/2607.02840) |
+| Guided Action Flow | Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2607.02092) |
+| VLA-Corrector | VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon. | [arXiv](https://arxiv.org/abs/2607.01804) |
+| Neuro-Symbolic Safety Guidance | Neuro-Symbolic Safety Guidance for Vision-Language-Action Models via Constrained Flow Matching. | [arXiv](https://arxiv.org/abs/2607.01378) · [Website](https://willenglish.tech/projects/) |
+| DART | Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts. | [arXiv](https://arxiv.org/abs/2607.00666) · [Website](https://twkang43.github.io/projects/dart/) · [Code](https://github.com/snumprlab/dart) |
 | PhysReflect-VLA | PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2606.27146) |
 | ROAD-VLA | ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.25800) |
 | RECALL | RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.23617) |
