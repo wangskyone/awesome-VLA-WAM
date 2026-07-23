@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Courteous Anticipation | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments. | [arXiv](https://arxiv.org/abs/2607.20289) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) | ⭐⭐⭐ |
 | SkillNav | Score-Level Skill Intervention for Zero-Shot Object Goal Navigation. | [arXiv](https://arxiv.org/abs/2607.15758) | ⭐⭐⭐ |
@@ -194,14 +195,15 @@ self-evaluation, or policy/world-model co-improvement.
 | SAVE | Uncertainty Quantification for Flow-Based Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.18043) · [Website](https://save-vla.github.io/) | ⭐⭐ |
 | ROVE | ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2606.17011) · [Website](https://xpeng-robotics.github.io/rove/) | ⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--21-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--17-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| DEED | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids. | [arXiv](https://arxiv.org/abs/2607.20345) | ⭐⭐⭐ |
 | LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) | ⭐⭐⭐ |
 | ExToken | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning. | [arXiv](https://arxiv.org/abs/2607.12931) | ⭐⭐ |
 | Z-1 | Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.31846) | ⭐⭐ |
