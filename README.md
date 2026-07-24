@@ -65,7 +65,6 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| Sequential EQA Memory | Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering. | [arXiv](https://arxiv.org/abs/2607.21571) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) | ⭐⭐⭐ |
 | SkillNav | Score-Level Skill Intervention for Zero-Shot Object Goal Navigation. | [arXiv](https://arxiv.org/abs/2607.15758) | ⭐⭐⭐ |
@@ -75,6 +74,7 @@ scope.
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
 | PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
 | Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) | ⭐⭐⭐ |
+| Cortex | Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation. | [arXiv](https://arxiv.org/abs/2607.05377) · [Website](https://steinate.github.io/cortex.github.io/) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
 
