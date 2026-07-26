@@ -65,7 +65,6 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| Courteous Anticipation | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments. | [arXiv](https://arxiv.org/abs/2607.20289) | ⭐⭐⭐ |
 | LENS | LENS: LLM-guided Environment Simplification for Planning and Control in Clutter. | [arXiv](https://arxiv.org/abs/2607.19633) · [Website](https://lens-2026.github.io/) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) | ⭐⭐⭐ |
