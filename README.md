@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--25-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Courteous Anticipation | Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments. | [arXiv](https://arxiv.org/abs/2607.20289) | ⭐⭐⭐ |
 | LENS | LENS: LLM-guided Environment Simplification for Planning and Control in Clutter. | [arXiv](https://arxiv.org/abs/2607.19633) · [Website](https://lens-2026.github.io/) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) | ⭐⭐⭐ |
@@ -74,7 +75,6 @@ scope.
 | PhysClaw-0 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections. | [arXiv](https://arxiv.org/abs/2607.14047) · [Website](https://open-gigaai.github.io/PhysClaw) | ⭐⭐⭐ |
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
 | PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
-| Harness VLA | Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. | [arXiv](https://arxiv.org/abs/2607.08448) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
 
@@ -158,15 +158,16 @@ self-evaluation, or policy/world-model co-improvement.
 | Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) | ⭐⭐ |
 | TFP | TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning. | [arXiv](https://arxiv.org/abs/2607.08283) | ⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
 | DEED | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids. | [arXiv](https://arxiv.org/abs/2607.20345) | ⭐⭐⭐ |
+| Offline Supervision RL | Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.19399) · [Project](https://alstar8.github.io/offline-supervision-vla-rl) | ⭐⭐⭐ |
 | LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) | ⭐⭐⭐ |
 | ExToken | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning. | [arXiv](https://arxiv.org/abs/2607.12931) | ⭐⭐ |
 | Z-1 | Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.31846) | ⭐⭐ |
@@ -175,7 +176,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) | ⭐⭐⭐ |
 | Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) | ⭐⭐⭐ |
 | EXPO-FT | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.25477) | ⭐⭐ |
-| ActQuant | ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.24011) · [Website](https://actquant.github.io/) | ⭐⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--21-0A7F5A?labelColor=333333)
 
