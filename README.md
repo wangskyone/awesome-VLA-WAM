@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| MissionBench | Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents. | [arXiv](https://arxiv.org/abs/2607.22014) | ⭐⭐⭐ |
 | LENS | LENS: LLM-guided Environment Simplification for Planning and Control in Clutter. | [arXiv](https://arxiv.org/abs/2607.19633) · [Website](https://lens-2026.github.io/) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) | ⭐⭐⭐ |
@@ -87,14 +88,15 @@ scope.
 | A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) | ⭐ |
 | RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) | ⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--25-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
-### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
+### Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Robot-Factored World Models | Robot-Factored World Models via Robot Rendering. | [arXiv](https://arxiv.org/abs/2607.22535) · [Website](https://bjkim95.github.io/rofacto/) | ⭐⭐⭐ |
 | Masked Visual Actions | Masked Visual Actions for Unified World Modeling. | [arXiv](https://arxiv.org/abs/2607.19343) · [Website](https://masked-visual-actions.github.io/) | ⭐⭐⭐ |
 | AeroAct | AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight. | [arXiv](https://arxiv.org/abs/2607.14997) | ⭐⭐⭐ |
 | FlowWAM | FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. | [arXiv](https://arxiv.org/abs/2607.13017) · [Website](https://flow-wam.github.io/) | ⭐⭐⭐ |
@@ -104,7 +106,6 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | NavWM | NavWM: A Unified Navigation World Model for Foresight-Driven Planning. | [arXiv](https://arxiv.org/abs/2606.24101) | ⭐ |
 | ImageWAM | ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? | [arXiv](https://arxiv.org/abs/2606.19531) · [Website](https://zhangwenyao1.github.io/ImageWAM/) | ⭐⭐⭐ |
 | Metis | Metis: A Generalizable and Efficient World-Action Model for Autonomous Driving and Urban Navigation. | [arXiv](https://arxiv.org/abs/2606.15869) | ⭐⭐ |
-| WAM4D | WAM4D: A Fast 4D World Action Model for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2606.14048) | ⭐⭐⭐ |
 
 ### VLM-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--25-0A7F5A?labelColor=333333)
 
@@ -136,7 +137,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | Bridge-WA | Bridge-WA: Predicting Where and How the World Changes for Robotic Action. | [arXiv](https://arxiv.org/abs/2607.02195) · [Website](https://hcplab-sysu.github.io/BRIDGE-WA) | ⭐⭐⭐ |
 | ABot-M0.5 | ABot-M0.5: Unified Mobility-and-Manipulation World Action Model. | [arXiv](https://arxiv.org/abs/2607.00678) · [Code](https://github.com/amap-cvlab/ABot-Manipulation) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--25-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -146,6 +147,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Physical Agency | Addressing the Orchestration Gap in Generalist Robots via Physical Agency. | [arXiv](https://arxiv.org/abs/2607.21725) | ⭐⭐⭐ |
 | FORGE-plus | FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor. | [arXiv](https://arxiv.org/abs/2607.21227) | ⭐⭐⭐ |
 | Robostral Navigate | Robostral Navigate. | [arXiv](https://arxiv.org/abs/2607.20785) | ⭐⭐⭐ |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) | ⭐⭐⭐ |
@@ -155,9 +157,8 @@ self-evaluation, or policy/world-model co-improvement.
 | Robust Execution with Agentic RL | Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning. | [arXiv](https://arxiv.org/abs/2607.13818) | ⭐⭐⭐ |
 | Artificial Foveated Perception | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models. | [arXiv](https://arxiv.org/abs/2607.10655) | ⭐ |
 | Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) | ⭐⭐ |
-| TFP | TFP: Temporally Conditioned Memory-Fusion Policies for Visuomotor Learning. | [arXiv](https://arxiv.org/abs/2607.08283) | ⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -176,10 +177,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) | ⭐⭐⭐ |
 | EXPO-FT | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.25477) | ⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--21-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| OAT | Ordered Action Tokens for Visuomotor Policy Learning. | [arXiv](https://arxiv.org/abs/2607.21670) | ⭐⭐⭐ |
 | JoyNexus | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models. | [arXiv](https://arxiv.org/abs/2607.16074) | ⭐⭐⭐ |
 | Fast-Slow VLA | Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving. | [arXiv](https://arxiv.org/abs/2607.15621) | ⭐⭐⭐ |
 | Jetson-PI | Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference. | [arXiv](https://arxiv.org/abs/2607.12659) · [Code](https://github.com/PKU-SEC-Lab/Jetson-PI) · [Inference Engine](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge) | ⭐⭐⭐ |
@@ -189,7 +191,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | NativeMEM | NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.06678) | ⭐⭐⭐ |
 | Action Caching and Refinement | Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement. | [arXiv](https://arxiv.org/abs/2607.06370) | ⭐⭐⭐ |
 | XS-VLA | XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control. | [arXiv](https://arxiv.org/abs/2607.04171) | ⭐⭐⭐ |
-| Embodied.cpp | Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. | [arXiv](https://arxiv.org/abs/2607.02501) · [Code](https://github.com/AgibotTech/Embodied.cpp) | ⭐⭐⭐ |
 
 ## Benchmarks for Robustness and Evaluation ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
 
