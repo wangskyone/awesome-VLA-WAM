@@ -76,17 +76,15 @@ scope.
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
 | PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
 
-## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
+## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| From World Action Models to Embodied Brains | From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence. | [arXiv](https://arxiv.org/abs/2607.11689) | ⭐ |
-| From World Models to World Action Models | From World Models to World Action Models: A Concise Tutorial for Robotics. | [arXiv](https://arxiv.org/abs/2607.00836) · [Website](https://clearlab-sustech.github.io/WorldModelSurvey/) · [Code](https://github.com/clearlab-sustech/WorldModelSurvey) | ⭐ |
-| World Action Models: The Next Frontier in Embodied AI. | World Action Models: The Next Frontier in Embodied AI. | [arXiv](https://arxiv.org/abs/2605.12090) · [Website](https://openmoss.github.io) | ⭐ |
-| DreamZero | World Action Models are Zero-shot Policies. | [arXiv](https://arxiv.org/abs/2602.15922) · [Website](https://dreamzero0.github.io) | ⭐⭐ |
-| Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. | Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. | [arXiv](https://arxiv.org/abs/2505.04769) · [Website](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges) | ⭐⭐ |
-| A Survey on Vision-Language-Action Models for Embodied AI. | A Survey on Vision-Language-Action Models for Embodied AI. | [arXiv](https://arxiv.org/abs/2405.14093) · [Website](https://github.com/yueen-ma/Awesome-VLA) | ⭐ |
-| RT-2 | RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. | [arXiv](https://arxiv.org/abs/2307.15818) · [Website](https://robotics-transformer2.github.io) | ⭐ |
+| Embodied Brains Roadmap | From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence. | [arXiv](https://arxiv.org/abs/2607.11689) | ⭐⭐⭐ |
+| VLA Review: UAV and Bimanual | Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review. | [arXiv](https://arxiv.org/abs/2607.06706) | ⭐⭐⭐ |
+| World Action Models Tutorial | From World Models to World Action Models: A Concise Tutorial for Robotics. | [arXiv](https://arxiv.org/abs/2607.00836) · [Website](https://clearlab-sustech.github.io/WorldModelSurvey/) · [Code](https://github.com/clearlab-sustech/WorldModelSurvey) | ⭐⭐⭐ |
+| World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
+| Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
 ## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
