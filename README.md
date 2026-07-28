@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| ARCHITECT | A Few Words Go a Long Way: Language Guided Robot Policy Synthesis. | [arXiv](https://arxiv.org/abs/2607.23784) · [Website](https://robo-architect.github.io/) | ⭐⭐⭐ |
 | Physical Agency | Addressing the Orchestration Gap in Generalist Robots via Physical Agency. | [arXiv](https://arxiv.org/abs/2607.21725) | ⭐⭐⭐ |
 | LENS | LENS: LLM-guided Environment Simplification for Planning and Control in Clutter. | [arXiv](https://arxiv.org/abs/2607.19633) · [Website](https://lens-2026.github.io/) | ⭐⭐⭐ |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) | ⭐⭐⭐ |
@@ -74,7 +75,6 @@ scope.
 | Agent-Client Protocol | Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol. | [arXiv](https://arxiv.org/abs/2607.14919) | ⭐⭐⭐ |
 | PhysClaw-0 | PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections. | [arXiv](https://arxiv.org/abs/2607.14047) · [Website](https://open-gigaai.github.io/PhysClaw) | ⭐⭐⭐ |
 | Hy-Embodied-VLM-1.0 | Hy-Embodied-VLM-1.0: Efficient Physical-World Agents. | [arXiv](https://arxiv.org/abs/2607.12894) · [Code](https://github.com/Tencent-Hunyuan/HY-Embodied) | ⭐⭐ |
-| PHILIA | A Glimpse into Long-term Physical Coexistence with Intelligent Robots. | [arXiv](https://arxiv.org/abs/2607.11377) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
@@ -86,7 +86,7 @@ scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -120,10 +120,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 | MM-ACT | MM-ACT: Learn from Multimodal Parallel Generation to Act. | [arXiv](https://arxiv.org/abs/2512.00975) · [Website](https://github.com/HHYHRHY/MM-ACT) | ⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--21-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| LeapBot-WA | LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments. | [arXiv](https://arxiv.org/abs/2607.23969) · [Code](https://github.com/LeapWM/leapbot-wa) | ⭐⭐⭐ |
 | GeoWorldAD | GeoWorldAD: Geometry World Action Model for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2607.17521) | ⭐⭐⭐ |
 | BadWAM | BadWAM: When World-Action Models Dream Right but Act Wrong. | [arXiv](https://arxiv.org/abs/2607.15207) | ⭐⭐⭐ |
 | GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) | ⭐⭐⭐ |
@@ -133,9 +134,8 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | 4D Geometric Priors for WAM | Learning 4D Geometric Priors for Inference-Efficient World Action Models. | [arXiv](https://arxiv.org/abs/2607.05468) | ⭐⭐⭐ |
 | VT-WAM | VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation. | [arXiv](https://arxiv.org/abs/2607.02503) · [Website](https://vt-wam.github.io/) | ⭐ |
 | Bridge-WA | Bridge-WA: Predicting Where and How the World Changes for Robotic Action. | [arXiv](https://arxiv.org/abs/2607.02195) · [Website](https://hcplab-sysu.github.io/BRIDGE-WA) | ⭐⭐⭐ |
-| ABot-M0.5 | ABot-M0.5: Unified Mobility-and-Manipulation World Action Model. | [arXiv](https://arxiv.org/abs/2607.00678) · [Code](https://github.com/amap-cvlab/ABot-Manipulation) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -145,6 +145,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| FutureRTC | FutureRTC: Real-Time Robot Execution with Anticipatory-Conditioned Action Chunking. | [arXiv](https://arxiv.org/abs/2607.24008) · [Website](https://jianghaiscu.github.io/FutureRTC_proj/) | ⭐⭐⭐ |
 | FORGE-plus | FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor. | [arXiv](https://arxiv.org/abs/2607.21227) | ⭐⭐⭐ |
 | Robostral Navigate | Robostral Navigate. | [arXiv](https://arxiv.org/abs/2607.20785) | ⭐⭐⭐ |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) | ⭐⭐⭐ |
@@ -155,14 +156,15 @@ self-evaluation, or policy/world-model co-improvement.
 | Artificial Foveated Perception | Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models. | [arXiv](https://arxiv.org/abs/2607.10655) | ⭐ |
 | Learning from Hindsight | Learning More from Less: Reinforcement Learning from Hindsight. | [arXiv](https://arxiv.org/abs/2607.09042) | ⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--26-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| VQVLA | A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference. | [arXiv](https://arxiv.org/abs/2607.24148) | ⭐⭐⭐ |
 | DEED | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids. | [arXiv](https://arxiv.org/abs/2607.20345) | ⭐⭐⭐ |
 | Offline Supervision RL | Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.19399) · [Project](https://alstar8.github.io/offline-supervision-vla-rl) | ⭐⭐⭐ |
 | LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) | ⭐⭐⭐ |
@@ -172,7 +174,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Mix-QVLA | Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.19565) | ⭐⭐⭐ |
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) | ⭐⭐⭐ |
 | Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) | ⭐⭐⭐ |
-| EXPO-FT | EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2605.25477) | ⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
