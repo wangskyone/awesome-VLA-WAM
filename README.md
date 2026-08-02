@@ -86,7 +86,7 @@ scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--31-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -120,10 +120,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 | MM-ACT | MM-ACT: Learn from Multimodal Parallel Generation to Act. | [arXiv](https://arxiv.org/abs/2512.00975) · [Website](https://github.com/HHYHRHY/MM-ACT) | ⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--07--31-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| QuantWAMs | QuantWAMs: Calibrating at the Right Granularity for World Action Models. | [arXiv](https://arxiv.org/abs/2607.28405) | ⭐⭐⭐ |
 | TacWAM | TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction. | [arXiv](https://arxiv.org/abs/2607.28391) | ⭐⭐⭐ |
 | DLAM | Distributional Latent Actions with Temporal Constraints. | [arXiv](https://arxiv.org/abs/2607.27138) | ⭐⭐⭐ |
 | INTACT | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models. | [arXiv](https://arxiv.org/abs/2607.26056) | ⭐⭐⭐ |
@@ -133,9 +134,8 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) | ⭐⭐⭐ |
 | FlowDAgger | FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space. | [arXiv](https://arxiv.org/abs/2607.08877) · [Website](https://microsoft.github.io/FlowDAgger) | ⭐ |
 | EgoWAM | EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data. | [arXiv](https://arxiv.org/abs/2607.08436) · [Website](https://gatech-rl2.github.io/egowam.github.io) | ⭐⭐⭐ |
-| WAM-TTT | WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. | [arXiv](https://arxiv.org/abs/2607.06988) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--31-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -145,6 +145,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Self-Evolving Learning | Self-Evolving Learning for Embodied AI with Criticality Model. | [arXiv](https://arxiv.org/abs/2607.28251) | ⭐⭐⭐ |
 | RedFlow | RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy. | [arXiv](https://arxiv.org/abs/2607.27782) | ⭐⭐⭐ |
 | RL²-VLA | RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.26991) · [Website](https://rl2-vla.github.io/) | ⭐⭐⭐ |
 | IDR | A Causality-aware Infer-diagnose-refine Framework for Test-time Modality Adaptation in VLA Models. | [arXiv](https://arxiv.org/abs/2607.25516) | ⭐⭐⭐ |
@@ -154,7 +155,6 @@ self-evaluation, or policy/world-model co-improvement.
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) | ⭐⭐⭐ |
 | Closing the Loop in Humanoid VLA | Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2607.18016) | ⭐⭐⭐ |
 | AC-VLA | Robust Out-of-Distribution Action Execution via Compositional Learning. | [arXiv](https://arxiv.org/abs/2607.15714) | ⭐⭐⭐ |
-| CosFly-VLA | CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking. | [arXiv](https://arxiv.org/abs/2607.15004) | ⭐⭐⭐ |
 
 ## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--30-0A7F5A?labelColor=333333)
 
