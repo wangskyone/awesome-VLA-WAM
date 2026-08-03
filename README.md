@@ -86,7 +86,7 @@ scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--08--03-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -120,10 +120,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 | MM-ACT | MM-ACT: Learn from Multimodal Parallel Generation to Act. | [arXiv](https://arxiv.org/abs/2512.00975) · [Website](https://github.com/HHYHRHY/MM-ACT) | ⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--08--03-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| FBFM | FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution. | [arXiv](https://arxiv.org/abs/2607.29235) | ⭐⭐⭐ |
 | QuantWAMs | QuantWAMs: Calibrating at the Right Granularity for World Action Models. | [arXiv](https://arxiv.org/abs/2607.28405) | ⭐⭐⭐ |
 | TacWAM | TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction. | [arXiv](https://arxiv.org/abs/2607.28391) | ⭐⭐⭐ |
 | DLAM | Distributional Latent Actions with Temporal Constraints. | [arXiv](https://arxiv.org/abs/2607.27138) | ⭐⭐⭐ |
@@ -133,9 +134,8 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | BadWAM | BadWAM: When World-Action Models Dream Right but Act Wrong. | [arXiv](https://arxiv.org/abs/2607.15207) | ⭐⭐⭐ |
 | GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) | ⭐⭐⭐ |
 | FlowDAgger | FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space. | [arXiv](https://arxiv.org/abs/2607.08877) · [Website](https://microsoft.github.io/FlowDAgger) | ⭐ |
-| EgoWAM | EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data. | [arXiv](https://arxiv.org/abs/2607.08436) · [Website](https://gatech-rl2.github.io/egowam.github.io) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--02-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--03-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -145,6 +145,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| ActFovea | ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency. | [arXiv](https://arxiv.org/abs/2607.29169) · [Code](https://github.com/SunnyYWD/ActFovea) | ⭐⭐⭐ |
 | Self-Evolving Learning | Self-Evolving Learning for Embodied AI with Criticality Model. | [arXiv](https://arxiv.org/abs/2607.28251) | ⭐⭐⭐ |
 | RedFlow | RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy. | [arXiv](https://arxiv.org/abs/2607.27782) | ⭐⭐⭐ |
 | RL²-VLA | RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.26991) · [Website](https://rl2-vla.github.io/) | ⭐⭐⭐ |
@@ -154,9 +155,8 @@ self-evaluation, or policy/world-model co-improvement.
 | Robostral Navigate | Robostral Navigate. | [arXiv](https://arxiv.org/abs/2607.20785) | ⭐⭐⭐ |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) | ⭐⭐⭐ |
 | Closing the Loop in Humanoid VLA | Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2607.18016) | ⭐⭐⭐ |
-| AC-VLA | Robust Out-of-Distribution Action Execution via Compositional Learning. | [arXiv](https://arxiv.org/abs/2607.15714) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--30-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--03-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -175,10 +175,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) | ⭐⭐⭐ |
 | Omega-QVLA | Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling. | [arXiv](https://arxiv.org/abs/2605.28803) · [Website](https://github.com/UCMP13753/Omega-QVLA) | ⭐⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--30-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--08--03-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| FibVLA | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling. | [arXiv](https://arxiv.org/abs/2607.29596) | ⭐⭐⭐ |
 | TurboVLA | TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM. | [arXiv](https://arxiv.org/abs/2607.27205) · [Code](https://github.com/H-EmbodVis/TurboVLA) | ⭐⭐⭐ |
 | πR² | πR²: Reactive Real-time Flow Policies. | [arXiv](https://arxiv.org/abs/2607.26055) · [Website](https://pi-r2-flow.github.io/) | ⭐⭐⭐ |
 | OAT | Ordered Action Tokens for Visuomotor Policy Learning. | [arXiv](https://arxiv.org/abs/2607.21670) | ⭐⭐⭐ |
@@ -188,7 +189,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | LoRA Fine-Tuning for VLA | On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.10172) | ⭐⭐⭐ |
 | CLAP | CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding. | [arXiv](https://arxiv.org/abs/2607.08974) · [Website](https://omron-sinicx.github.io/clap/) | ⭐ |
 | FabriVLA | FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation. | [arXiv](https://arxiv.org/abs/2607.08575) | ⭐⭐⭐ |
-| NativeMEM | NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.06678) | ⭐⭐⭐ |
 
 ## Benchmarks for Robustness and Evaluation ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
 
