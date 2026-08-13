@@ -94,6 +94,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| ST-WAM | ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts. | [arXiv](https://arxiv.org/abs/2607.28993) · [Website](https://thu-wangmx.github.io/st-wam/) · [Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model) | ⭐⭐⭐ |
 | Surgical WAM | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning. | [arXiv](https://arxiv.org/abs/2608.11204) | ⭐⭐⭐ |
 | SimWAM | SimWAM: A Simple World Action Model for End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2608.07468) · [Code](https://github.com/H-EmbodVis/SimWAM/) | ⭐⭐⭐ |
 | DreamWAM | DreamWAM: Beyond RGB Future Prediction for World Action Models. | [arXiv](https://arxiv.org/abs/2608.04996) · [Code](https://github.com/hustvl/DreamWAM) | ⭐⭐⭐ |
