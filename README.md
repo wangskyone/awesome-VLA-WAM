@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--12-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--13-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,7 +65,6 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| TCAM | TCAM for Autonomous Deformable Manipulation: The RMC2 Champion System for WBCD 2026 Track 4. | [arXiv](https://arxiv.org/abs/2608.10718) | ⭐⭐⭐ |
 | Fast-Slow ReAct Agent | Hierarchical Fast-Slow ReAct Agent for Zero-Shot Object-Goal Navigation. | [arXiv](https://arxiv.org/abs/2608.09816) | ⭐⭐⭐ |
 | Coordination Threats | When Coordination Becomes a Threat: Communication Attacks in LLM-Controlled Multi-Robot Systems. | [arXiv](https://arxiv.org/abs/2608.06830) | ⭐⭐⭐ |
 | HiRoC | Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2608.05999) | ⭐⭐⭐ |
