@@ -66,7 +66,6 @@ scope.
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
 | Deliberate Practice | Deliberate Practice: Learning Robot Skills under a Budget. | [arXiv](https://arxiv.org/abs/2608.13415) | ⭐⭐⭐ |
-| DreamFly | DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation. | [arXiv](https://arxiv.org/abs/2608.12308) | ⭐⭐⭐ |
 | Fast-Slow ReAct Agent | Hierarchical Fast-Slow ReAct Agent for Zero-Shot Object-Goal Navigation. | [arXiv](https://arxiv.org/abs/2608.09816) | ⭐⭐⭐ |
 | Coordination Threats | When Coordination Becomes a Threat: Communication Attacks in LLM-Controlled Multi-Robot Systems. | [arXiv](https://arxiv.org/abs/2608.06830) | ⭐⭐⭐ |
 | HiRoC | Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2608.05999) | ⭐⭐⭐ |
