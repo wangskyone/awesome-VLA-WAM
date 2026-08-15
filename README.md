@@ -155,7 +155,7 @@ self-evaluation, or policy/world-model co-improvement.
 | Grounded Semantic Re-Binding | Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.02497) | ⭐⭐⭐ |
 | ActFovea | ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency. | [arXiv](https://arxiv.org/abs/2607.29169) · [Code](https://github.com/SunnyYWD/ActFovea) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--14-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--15-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -174,11 +174,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Mix-QVLA | Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.19565) | ⭐⭐⭐ |
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) | ⭐⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--08--14-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--08--15-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| BrainWAM | BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2608.12854) | ⭐⭐⭐ |
+| FlashDrive | FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2608.12932) | ⭐⭐⭐ |
 | G0.5 | G0.5: One Autoregressive Stream for Robot Reasoning and Action. | [arXiv](https://arxiv.org/abs/2608.11739) · [Project](https://opengalaxea.github.io/G05/) | ⭐⭐⭐ |
 | XCoT-VLA | XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving. | [arXiv](https://arxiv.org/abs/2608.10976) | ⭐⭐⭐ |
 | SLIM-0.5B | SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation. | [arXiv](https://arxiv.org/abs/2608.09771) · [Website](https://kzz1031.github.io/slim-project-page/) | ⭐⭐⭐ |
