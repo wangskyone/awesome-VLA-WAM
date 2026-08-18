@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--17-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--18-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| BATON | Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory. | [arXiv](https://arxiv.org/abs/2608.16889) | ⭐⭐⭐ |
 | ART | Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use. | [arXiv](https://arxiv.org/abs/2608.14047) | ⭐⭐⭐ |
 | Deliberate Practice | Deliberate Practice: Learning Robot Skills under a Budget. | [arXiv](https://arxiv.org/abs/2608.13415) | ⭐⭐⭐ |
 | Fast-Slow ReAct Agent | Hierarchical Fast-Slow ReAct Agent for Zero-Shot Object-Goal Navigation. | [arXiv](https://arxiv.org/abs/2608.09816) | ⭐⭐⭐ |
@@ -74,7 +75,6 @@ scope.
 | ETA | ETA: A New Agentic Paradigm for Embodied Tasks. | [arXiv](https://arxiv.org/abs/2608.03924) | ⭐⭐⭐ |
 | CoNav-UAV | CoNav-UAV: Cooperative Dual-Altitude Aerial Navigation via Stackelberg Learning. | [arXiv](https://arxiv.org/abs/2608.02365) | ⭐⭐⭐ |
 | TEA-AgriVLN | TEA-AgriVLN: Traversability Estimation Alarm for Agricultural Vision-and-Language Navigation. | [arXiv](https://arxiv.org/abs/2607.28474) | ⭐⭐⭐ |
-| RoboBRIDGE | RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents. | [arXiv](https://arxiv.org/abs/2607.27881) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
@@ -135,7 +135,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | TacWAM | TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction. | [arXiv](https://arxiv.org/abs/2607.28391) | ⭐⭐⭐ |
 | DLAM | Distributional Latent Actions with Temporal Constraints. | [arXiv](https://arxiv.org/abs/2607.27138) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--14-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--18-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -145,6 +145,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| ViTaR | ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation. | [arXiv](https://arxiv.org/abs/2608.15816) | ⭐⭐⭐ |
 | Decoding Task Progress | Decoding Task Progress from VLA Representations. | [arXiv](https://arxiv.org/abs/2608.13474) | ⭐⭐⭐ |
 | StellaVLA | StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.11671) | ⭐⭐⭐ |
 | Gated VLA-Cache | Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.10824) · [Project](https://zjw4321.github.io/) | ⭐⭐⭐ |
@@ -154,9 +155,8 @@ self-evaluation, or policy/world-model co-improvement.
 | Suppression Sticks | Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies. | [arXiv](https://arxiv.org/abs/2608.04692) | ⭐⭐⭐ |
 | SARF | Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking. | [arXiv](https://arxiv.org/abs/2608.03231) | ⭐⭐⭐ |
 | Grounded Semantic Re-Binding | Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.02497) | ⭐⭐⭐ |
-| ActFovea | ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency. | [arXiv](https://arxiv.org/abs/2607.29169) · [Code](https://github.com/SunnyYWD/ActFovea) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--17-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--18-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -175,10 +175,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Mix-QVLA | Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.19565) | ⭐⭐⭐ |
 | Learned Image Compression | Learned Image Compression for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.16253) | ⭐⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--08--17-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--08--18-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| HAF | HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL. | [arXiv](https://arxiv.org/abs/2608.16837) · [Website](https://grange007.github.io/) | ⭐⭐⭐ |
 | ReflexVLA | Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation. | [arXiv](https://arxiv.org/abs/2608.14379) · [Website](https://reflexvla.github.io/) | ⭐⭐⭐ |
 | FlashDrive | FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2608.12932) | ⭐⭐⭐ |
 | G0.5 | G0.5: One Autoregressive Stream for Robot Reasoning and Action. | [arXiv](https://arxiv.org/abs/2608.11739) · [Project](https://opengalaxea.github.io/G05/) | ⭐⭐⭐ |
@@ -188,7 +189,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | BCP | Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution. | [arXiv](https://arxiv.org/abs/2608.03483) · [Website](https://fleetfootwork.github.io/) | ⭐⭐⭐ |
 | WAM-Diff2 | WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA. | [arXiv](https://arxiv.org/abs/2608.01066) | ⭐⭐⭐ |
 | FibVLA | FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling. | [arXiv](https://arxiv.org/abs/2607.29596) | ⭐⭐⭐ |
-| TurboVLA | TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM. | [arXiv](https://arxiv.org/abs/2607.27205) · [Code](https://github.com/H-EmbodVis/TurboVLA) | ⭐⭐⭐ |
 
 ## Benchmarks for Robustness and Evaluation ![Updated](https://img.shields.io/badge/Updated-2026--07--15-0A7F5A?labelColor=333333)
 
