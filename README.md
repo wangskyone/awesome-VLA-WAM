@@ -52,7 +52,7 @@ kept in the linked archive documents.
 
 Relevance: stars indicate topical relevance only, not paper quality: ⭐⭐⭐ direct fit · ⭐⭐ adjacent/supporting · ⭐ background/context.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--19-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--08--20-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -65,6 +65,7 @@ scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| GuideFetch | GuideFetch: A Task Coordination Framework for Concurrent Navigation and Object Retrieval in Assistive Robot Dogs. | [arXiv](https://arxiv.org/abs/2608.18292) | ⭐⭐⭐ |
 | HODAgent | HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction. | [arXiv](https://arxiv.org/abs/2608.17584) | ⭐⭐⭐ |
 | ART | Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use. | [arXiv](https://arxiv.org/abs/2608.14047) | ⭐⭐⭐ |
 | Deliberate Practice | Deliberate Practice: Learning Robot Skills under a Budget. | [arXiv](https://arxiv.org/abs/2608.13415) | ⭐⭐⭐ |
@@ -74,7 +75,6 @@ scope.
 | Mimir | Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments. | [arXiv](https://arxiv.org/abs/2608.04933) | ⭐⭐⭐ |
 | ETA | ETA: A New Agentic Paradigm for Embodied Tasks. | [arXiv](https://arxiv.org/abs/2608.03924) | ⭐⭐⭐ |
 | CoNav-UAV | CoNav-UAV: Cooperative Dual-Altitude Aerial Navigation via Stackelberg Learning. | [arXiv](https://arxiv.org/abs/2608.02365) | ⭐⭐⭐ |
-| TEA-AgriVLN | TEA-AgriVLN: Traversability Estimation Alarm for Agricultural Vision-and-Language Navigation. | [arXiv](https://arxiv.org/abs/2607.28474) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--07--27-0A7F5A?labelColor=333333)
 
@@ -86,7 +86,7 @@ scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--08--19-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--08--20-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -120,10 +120,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 | MM-ACT | MM-ACT: Learn from Multimodal Parallel Generation to Act. | [arXiv](https://arxiv.org/abs/2512.00975) · [Website](https://github.com/HHYHRHY/MM-ACT) | ⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--08--19-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--08--20-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| DA-WAM | DA-WAM: Decision-Aligned Future Latents for Driving World Models. | [arXiv](https://arxiv.org/abs/2608.19085) | ⭐⭐⭐ |
 | Hydra-0 | Hydra-0: Action Flow for Generalist World Modeling and Control. | [arXiv](https://arxiv.org/abs/2608.18077) · [Project](https://nvidia-isaac.github.io/video_to_data/hydra-0/) | ⭐⭐⭐ |
 | ContactGuard | ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models. | [arXiv](https://arxiv.org/abs/2608.13438) | ⭐⭐⭐ |
 | RIFT | Keep the Future, Drop the Rollout: RIFT for World Action Models. | [arXiv](https://arxiv.org/abs/2608.11521) | ⭐⭐⭐ |
@@ -133,9 +134,8 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | CoWAM | CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs. | [arXiv](https://arxiv.org/abs/2608.02580) | ⭐⭐⭐ |
 | FBFM | FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution. | [arXiv](https://arxiv.org/abs/2607.29235) | ⭐⭐⭐ |
 | QuantWAMs | QuantWAMs: Calibrating at the Right Granularity for World Action Models. | [arXiv](https://arxiv.org/abs/2607.28405) | ⭐⭐⭐ |
-| TacWAM | TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction. | [arXiv](https://arxiv.org/abs/2607.28391) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--19-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--08--20-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -145,6 +145,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| GS-VLA | GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting. | [arXiv](https://arxiv.org/abs/2608.19066) | ⭐⭐⭐ |
 | Calibrated Predictive Safety | Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields. | [arXiv](https://arxiv.org/abs/2608.17496) | ⭐⭐⭐ |
 | ViTaR | ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation. | [arXiv](https://arxiv.org/abs/2608.15816) | ⭐⭐⭐ |
 | Decoding Task Progress | Decoding Task Progress from VLA Representations. | [arXiv](https://arxiv.org/abs/2608.13474) | ⭐⭐⭐ |
@@ -154,7 +155,6 @@ self-evaluation, or policy/world-model co-improvement.
 | TEMPO | TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.07314) | ⭐⭐⭐ |
 | Visual Grounding | Visual Grounding in Zero-Shot Vision-Language Control. | [arXiv](https://arxiv.org/abs/2608.06154) | ⭐⭐⭐ |
 | Suppression Sticks | Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies. | [arXiv](https://arxiv.org/abs/2608.04692) | ⭐⭐⭐ |
-| SARF | Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking. | [arXiv](https://arxiv.org/abs/2608.03231) | ⭐⭐⭐ |
 
 ## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--08--19-0A7F5A?labelColor=333333)
 
