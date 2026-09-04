@@ -38,9 +38,10 @@ the arXiv identifiers in this README with
 The agentic robotics section requires an explicit embodied-agent layer that
 coordinates multi-step physical execution through high-level planning, memory,
 tool or skill discovery and composition, VLA/VLM or policy orchestration,
-navigation, recovery, or online policy self-improvement. Standalone prompt
+recovery, or online policy self-improvement. Pure navigation or VLN policies
+without another agentic robotics capability are out of scope. Standalone prompt
 optimization, generic exploration, or low-level VLA improvements without this
-agent-level role are out of scope.
+agent-level role are also out of scope.
 The failure
 detection/correction section is not a one-to-one heading in the source
 repository; it groups papers that are closely related through environment
@@ -68,13 +69,11 @@ Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 This emerging line treats robot foundation models as components inside a
 broader embodied-agent loop. Papers belong here only when the agent layer is
 central to coordinating physical multi-step execution through planning,
-memory, tool or skill composition, policy orchestration, navigation, recovery,
-or online self-improvement; standalone model or prompt improvements are out of
-scope.
+memory, tool or skill composition, policy orchestration, recovery, or online
+self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| Topological Graphs | Revisiting Topological Graphs for Macro Action based Closed-loop Reinforcement Learning of Vision Language Navigation in Continuous Environment. | [arXiv](https://arxiv.org/abs/2609.03906) | ⭐⭐⭐ |
 | HINT | HINT: Human-Intent Inception for Long-Horizon Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.02653) · [Project](https://robot-hint.github.io/) | ⭐⭐⭐ |
 | EmbodiedSkills | EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents. | [arXiv](https://arxiv.org/abs/2609.01281) | ⭐⭐⭐ |
 | SUN | SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies. | [arXiv](https://arxiv.org/abs/2608.31167) | ⭐⭐⭐ |
@@ -84,6 +83,7 @@ scope.
 | PonderPounce | PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control. | [arXiv](https://arxiv.org/abs/2608.24115) · [Project](https://worv-ai.github.io/) | ⭐⭐⭐ |
 | Physical Agentic AI | Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with LLMs. | [arXiv](https://arxiv.org/abs/2608.22657) | ⭐⭐⭐ |
 | Beyond Imitation | Beyond Imitation: Self-Improving Robot Policies via Off-Policy Q-Planning. | [arXiv](https://arxiv.org/abs/2608.21204) · [Project](https://varungiridhar.github.io/) | ⭐⭐⭐ |
+| EAFG | Evidence-Gated Task and Motion Planning with Vision-Language Models. | [arXiv](https://arxiv.org/abs/2608.20084) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--08--22-0A7F5A?labelColor=333333)
 
