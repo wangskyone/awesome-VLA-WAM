@@ -133,6 +133,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Motus2 | Motus2: A Self-Evolving General World Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2608.30237) · [Project](https://motus-robotics.github.io/motus2) | ⭐⭐⭐ |
 | MaP-WAM | Memory as Plans: World-Action Modeling with Memory-Grounded Planning. | [arXiv](https://arxiv.org/abs/2609.11561) · [Project](https://sizhezhao.github.io/) | ⭐⭐⭐ |
 | DUET-DINO | DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.10506) · [Project](https://utn-air.github.io) | ⭐⭐⭐ |
 | PAVE | PAVE: Predictive Alignment and Value-Guided Evolution for World-Action Policies. | [arXiv](https://arxiv.org/abs/2608.30378) | ⭐⭐⭐ |
@@ -142,7 +143,6 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | Hydra-0 | Hydra-0: Action Flow for Generalist World Modeling and Control. | [arXiv](https://arxiv.org/abs/2608.18077) · [Project](https://nvidia-isaac.github.io/video_to_data/hydra-0/) | ⭐⭐⭐ |
 | ContactGuard | ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models. | [arXiv](https://arxiv.org/abs/2608.13438) | ⭐⭐⭐ |
 | RIFT | Keep the Future, Drop the Rollout: RIFT for World Action Models. | [arXiv](https://arxiv.org/abs/2608.11521) | ⭐⭐⭐ |
-| HarnessWAM | HarnessWAM: Bridging Prediction and Deliberation in World Action Models. | [arXiv](https://arxiv.org/abs/2608.09516) | ⭐⭐⭐ |
 
 ## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--11-0A7F5A?labelColor=333333)
 
