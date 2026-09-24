@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| CorrectVLA | Training-Free Action Correction for VLA Model Failures via Language Feedback. | [arXiv](https://arxiv.org/abs/2608.29967) · [Project](https://correctvla.github.io) |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) |
 | Closing the Loop in Humanoid VLA | Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2607.18016) |
 | AC-VLA | Robust Out-of-Distribution Action Execution via Compositional Learning. | [arXiv](https://arxiv.org/abs/2607.15714) |

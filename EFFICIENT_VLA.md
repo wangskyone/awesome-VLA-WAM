@@ -29,10 +29,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--07--21-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| LaPla | Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2609.04070) |
 | JoyNexus | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models. | [arXiv](https://arxiv.org/abs/2607.16074) |
 | Fast-Slow VLA | Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving. | [arXiv](https://arxiv.org/abs/2607.15621) |
 | Jetson-PI | Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference. | [arXiv](https://arxiv.org/abs/2607.12659) · [Code](https://github.com/PKU-SEC-Lab/Jetson-PI) · [Inference Engine](https://github.com/PKU-SEC-Lab/Jetson-PI-Edge) |
