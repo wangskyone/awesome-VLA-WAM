@@ -1,4 +1,4 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -29,10 +29,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| LiMA | LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion. | [arXiv](https://arxiv.org/abs/2609.28431) · [Project](https://ccdcs.github.io/LiMA_repo/) |
 | LaPla | Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2609.04070) |
 | JoyNexus | JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models. | [arXiv](https://arxiv.org/abs/2607.16074) |
 | Fast-Slow VLA | Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving. | [arXiv](https://arxiv.org/abs/2607.15621) |

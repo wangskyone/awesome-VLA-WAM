@@ -1,4 +1,4 @@
-# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
+# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
 
 Full retained list for the `Agentic Robotics (New Trend)` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -11,6 +11,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | Paper | Title | Links |
 | --- | --- | --- |
 | Local Coding Agent | Generalizing Manipulation Skills with a Local Coding Agent. | [arXiv](https://arxiv.org/abs/2609.26499) |
+| Show-Harness | Show-Harness: Just a VLM Agent Can Play Robots. | [arXiv](https://arxiv.org/abs/2609.10522) · [Project](https://showlab.github.io) |
 | Intelligent Multi-UAV Navigation | Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach. | [arXiv](https://arxiv.org/abs/2607.18604) |
 | RoboHarness | RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning. | [arXiv](https://arxiv.org/abs/2607.18060) |
 | SkillNav | Score-Level Skill Intervention for Zero-Shot Object Goal Navigation. | [arXiv](https://arxiv.org/abs/2607.15758) |
