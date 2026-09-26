@@ -95,7 +95,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--09--26-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -129,10 +129,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLAW | VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. | [arXiv](https://arxiv.org/abs/2602.12063) · [Website](https://sites.google.com/view/vlaw-arxiv) | ⭐⭐⭐ |
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--26-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| AD-WM | AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control. | [arXiv](https://arxiv.org/abs/2609.30264) · [Project](https://ad-wm.github.io/) | ⭐⭐⭐ |
 | PointCast | PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation. | [arXiv](https://arxiv.org/abs/2609.28393) · [Project](https://pointcast-wm.github.io) | ⭐⭐⭐ |
 | DexTacWAM | DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2609.24976) · [Project](https://dextacwam.github.io/) | ⭐⭐⭐ |
 | SkelWAM | SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation. | [arXiv](https://arxiv.org/abs/2609.21983) · [Project](http://www.liukepku.com/skelwam/index.html) | ⭐⭐⭐ |
@@ -142,7 +143,6 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | WLA³ | WLA³: World Latent Action Modeling for Semantics, Dynamics, and Kinematics. | [arXiv](https://arxiv.org/abs/2609.15870) · [Project](https://wla-3.github.io/) | ⭐⭐⭐ |
 | Dynin-Robotics | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) | ⭐⭐⭐ |
 | Motus2 | Motus2: A Self-Evolving General World Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2608.30237) · [Project](https://motus-robotics.github.io/motus2) | ⭐⭐⭐ |
-| MaP-WAM | Memory as Plans: World-Action Modeling with Memory-Grounded Planning. | [arXiv](https://arxiv.org/abs/2609.11561) · [Project](https://sizhezhao.github.io/) | ⭐⭐⭐ |
 
 ## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
 
