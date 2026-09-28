@@ -62,7 +62,7 @@ alignment, online planning, or robustness evaluation.
 Section badges show the latest curation date. Core paper lists below keep the
 10 newest entries; reference sections may be shorter.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -74,6 +74,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Generate, Track, Improve | Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators. | [arXiv](https://arxiv.org/abs/2609.31577) · [Project](https://zolkin1.github.io/generate-track-improve/) | ⭐⭐⭐ |
 | RAPID | RAPID: Robot Agentic Programming from Demonstrations. | [arXiv](https://arxiv.org/abs/2609.30249) · [Project](https://yuyaoliu.me) | ⭐⭐⭐ |
 | TANDEM | TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning. | [arXiv](https://arxiv.org/abs/2609.28314) | ⭐⭐⭐ |
 | GLIDE | Learning Beyond What Humans Can Demonstrate. | [arXiv](https://arxiv.org/abs/2609.24996) · [Project](https://guardrail-policy.github.io/) | ⭐⭐⭐ |
@@ -83,7 +84,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | XPACE | XPACE: Joint World and Action Modeling from Heterogeneous Experience. | [arXiv](https://arxiv.org/abs/2609.17372) | ⭐⭐⭐ |
 | MessyMem | MessyMem: Learning-from-Doing Memory for Mobile Manipulation. | [arXiv](https://arxiv.org/abs/2609.15976) · [Project](https://messymem.github.io/) | ⭐⭐⭐ |
 | DASL | Dual-Process Atomic Skill Learning: Decoupling Semantic Reasoning and Real-Time Control. | [arXiv](https://arxiv.org/abs/2607.10625) · [Code](https://github.com/Hatakekaka/DASL) | ⭐⭐⭐ |
-| 2AM | 2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation. | [arXiv](https://arxiv.org/abs/2609.11308) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--08--22-0A7F5A?labelColor=333333)
 
@@ -95,7 +95,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--09--26-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -129,10 +129,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLAW | VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. | [arXiv](https://arxiv.org/abs/2602.12063) · [Website](https://sites.google.com/view/vlaw-arxiv) | ⭐⭐⭐ |
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--26-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| InternW0-Δ | InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data. | [arXiv](https://arxiv.org/abs/2609.31394) · [Project](https://internrobotics.github.io/InternW0-Delta/) | ⭐⭐⭐ |
 | AD-WM | AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control. | [arXiv](https://arxiv.org/abs/2609.30264) · [Project](https://ad-wm.github.io/) | ⭐⭐⭐ |
 | PointCast | PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation. | [arXiv](https://arxiv.org/abs/2609.28393) · [Project](https://pointcast-wm.github.io) | ⭐⭐⭐ |
 | DexTacWAM | DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2609.24976) · [Project](https://dextacwam.github.io/) | ⭐⭐⭐ |
@@ -142,9 +143,8 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | ModAR | Modality-Autoregressive World-Action Models. | [arXiv](https://arxiv.org/abs/2609.17524) · [Project](https://adamhung60.github.io/) | ⭐⭐⭐ |
 | WLA³ | WLA³: World Latent Action Modeling for Semantics, Dynamics, and Kinematics. | [arXiv](https://arxiv.org/abs/2609.15870) · [Project](https://wla-3.github.io/) | ⭐⭐⭐ |
 | Dynin-Robotics | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) | ⭐⭐⭐ |
-| Motus2 | Motus2: A Self-Evolving General World Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2608.30237) · [Project](https://motus-robotics.github.io/motus2) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -154,6 +154,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| Kintsugi-VLA | Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability. | [arXiv](https://arxiv.org/abs/2609.31048) | ⭐⭐⭐ |
 | Self-Adaptive VLA | Self-Adaptive VLA for Robust Robot Deployment. | [arXiv](https://arxiv.org/abs/2609.30092) · [Project](https://icefoxzhx.github.io/) | ⭐⭐⭐ |
 | CereVLA | CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution. | [arXiv](https://arxiv.org/abs/2609.27468) | ⭐⭐⭐ |
 | CARE | CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.24118) · [Code](https://github.com/xiaojunlan/care) | ⭐⭐⭐ |
@@ -163,16 +164,16 @@ self-evaluation, or policy/world-model co-improvement.
 | MoSS | Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2604.23272) · [Project](https://jiminlx.github.io/MoSS/) | ⭐⭐⭐ |
 | ActSafeGuard | ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2609.11697) | ⭐⭐⭐ |
 | VLA-Corrector | VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.06508) | ⭐⭐⭐ |
-| FWBC-VLA | FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2609.03889) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
-### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--09--23-0A7F5A?labelColor=333333)
+### Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| FRAM | FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.30965) | ⭐⭐⭐ |
 | ε4P | Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2609.26672) · [Project](https://varepsilon4p.github.io/) | ⭐⭐⭐ |
 | AdaDE | Dense to MoE Adaptation for Compact Vision Language Action Policies. | [arXiv](https://arxiv.org/abs/2609.16503) | ⭐⭐⭐ |
 | Beyond Data Scaling | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.27550) · [Project](https://starvla.github.io/) | ⭐⭐⭐ |
@@ -182,7 +183,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | VQVLA | A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference. | [arXiv](https://arxiv.org/abs/2607.24148) | ⭐⭐⭐ |
 | DEED | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids. | [arXiv](https://arxiv.org/abs/2607.20345) | ⭐⭐⭐ |
 | Offline Supervision RL | Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.19399) · [Project](https://alstar8.github.io/offline-supervision-vla-rl) | ⭐⭐⭐ |
-| LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) | ⭐⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--09--25-0A7F5A?labelColor=333333)
 

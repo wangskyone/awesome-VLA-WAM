@@ -1,4 +1,4 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -66,11 +66,12 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | UP-VLA | UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. | [arXiv](https://arxiv.org/abs/2501.18867) · [Website](https://github.com/CladernyJorn/UP-VLA) |
 | pi0.7 | pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. | [Website](https://www.pi.website/blog/pi07) |
 
-## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--24-0A7F5A?labelColor=333333)
+## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | MaP-WAM | Memory as Plans: World-Action Modeling with Memory-Grounded Planning. | [arXiv](https://arxiv.org/abs/2609.11561) · [Project](https://sizhezhao.github.io/) |
+| Motus2 | Motus2: A Self-Evolving General World Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2608.30237) · [Project](https://motus-robotics.github.io/motus2) |
 | GeoWorldAD | GeoWorldAD: Geometry World Action Model for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2607.17521) |
 | BadWAM | BadWAM: When World-Action Models Dream Right but Act Wrong. | [arXiv](https://arxiv.org/abs/2607.15207) |
 | GigaWorld-Policy-0.5 | GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch. | [arXiv](https://arxiv.org/abs/2607.13960) · [Website](https://open-gigaai.github.io/giga-world-policy/) |
