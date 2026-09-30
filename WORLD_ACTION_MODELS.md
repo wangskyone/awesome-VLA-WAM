@@ -66,10 +66,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | UP-VLA | UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. | [arXiv](https://arxiv.org/abs/2501.18867) · [Website](https://github.com/CladernyJorn/UP-VLA) |
 | pi0.7 | pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. | [Website](https://www.pi.website/blog/pi07) |
 
-## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
+## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--09--30-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Dynin-Robotics | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) |
 | MaP-WAM | Memory as Plans: World-Action Modeling with Memory-Grounded Planning. | [arXiv](https://arxiv.org/abs/2609.11561) · [Project](https://sizhezhao.github.io/) |
 | Motus2 | Motus2: A Self-Evolving General World Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2608.30237) · [Project](https://motus-robotics.github.io/motus2) |
 | GeoWorldAD | GeoWorldAD: Geometry World Action Model for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2607.17521) |

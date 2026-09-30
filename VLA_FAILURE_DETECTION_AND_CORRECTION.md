@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--28-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--09--30-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| VLA-Corrector | VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.06508) |
 | FWBC-VLA | FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2609.03889) |
 | CorrectVLA | Training-Free Action Correction for VLA Model Failures via Language Feedback. | [arXiv](https://arxiv.org/abs/2608.29967) · [Project](https://correctvla.github.io) |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) |

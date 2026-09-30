@@ -4,11 +4,12 @@ Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.m
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
 
-## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--07--23-0A7F5A?labelColor=333333)
+## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--09--30-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | DEED | Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids. | [arXiv](https://arxiv.org/abs/2607.20345) |
+| Offline Supervision RL | Leveraging Offline Supervision for Efficient and Generalizable Reinforcement Learning in Large-Scale Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.19399) · [Project](https://alstar8.github.io/offline-supervision-vla-rl) |
 | LifelongVLA | Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2607.14852) |
 | ExToken | ExToken: Structured Exploration for Efficient Vision-Language-Action Reinforcement Fine-tuning. | [arXiv](https://arxiv.org/abs/2607.12931) |
 | Z-1 | Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2606.31846) |
