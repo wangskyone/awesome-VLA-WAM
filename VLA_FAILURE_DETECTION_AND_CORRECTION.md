@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--01-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--05-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -54,6 +54,7 @@ self-evaluation, or policy/world-model co-improvement.
 | When to Trust Imagination | When to Trust Imagination: Adaptive Action Execution for World Action Models. | [arXiv](https://arxiv.org/abs/2605.06222) |
 | VLA-ATTC | VLA-ATTC: Adaptive Test-Time Compute for VLA Models with Relative Action Critic Model. | [arXiv](https://arxiv.org/abs/2605.01194) |
 | Sentinel-VLA | Sentinel-VLA: A Metacognitive VLA Model with Active Status Monitoring for Dynamic Reasoning and Error Recovery. | [arXiv](https://arxiv.org/abs/2605.01191) |
+| MoSS | Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2604.23272) · [Project](https://jiminlx.github.io/MoSS/) |
 | ReconVLA | ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control. | [arXiv](https://arxiv.org/abs/2604.16677) |
 | STRONG-VLA | STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations. | [arXiv](https://arxiv.org/abs/2604.10055) |
 | WAV | World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. | [arXiv](https://arxiv.org/abs/2604.01985) · [Website](https://world-action-verifier.github.io) |
