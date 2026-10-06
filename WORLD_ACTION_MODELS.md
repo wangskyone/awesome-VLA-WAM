@@ -1,14 +1,8 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--06-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--05-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
-
-## Robustness and Security ![Updated](https://img.shields.io/badge/Updated-2026--10--06-0A7F5A?labelColor=333333)
-
-| Paper | Title | Links |
-| --- | --- | --- |
-| TAPDreamer | TAPDreamer: Transferable Adversarial Patches for World Action Models. | [arXiv](https://arxiv.org/abs/2610.06814) · [Project](https://tapdreamer.github.io/) |
 
 ## Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
 
