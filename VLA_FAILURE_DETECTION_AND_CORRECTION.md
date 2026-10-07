@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--06-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--07-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| TraceFlow | Guiding Frozen Flow-Matching Robot Policies with Success and Failure Traces. | [arXiv](https://arxiv.org/abs/2609.20646) |
 | DistAL | DistAL: Distance-based Advantage Learning for VLA Fine-Tuning. | [arXiv](https://arxiv.org/abs/2609.18392) |
 | ActSafeGuard | ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2609.11697) |
 | VLA-Corrector | VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.06508) |
