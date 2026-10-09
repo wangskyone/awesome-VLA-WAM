@@ -1,4 +1,4 @@
-# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--08-0A7F5A?labelColor=333333)
+# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 Full retained list for the `Agentic Robotics (New Trend)` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| TANDEM | TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning. | [arXiv](https://arxiv.org/abs/2609.28314) |
 | Local Coding Agent | Generalizing Manipulation Skills with a Local Coding Agent. | [arXiv](https://arxiv.org/abs/2609.26499) |
 | GLIDE | Learning Beyond What Humans Can Demonstrate. | [arXiv](https://arxiv.org/abs/2609.24996) · [Project](https://guardrail-policy.github.io/) |
 | AgenticSwarm | AgenticSwarm: Semantic Perception and Adaptive Task Allocation for Heterogeneous Multi-UAV Missions. | [arXiv](https://arxiv.org/abs/2609.21716) |

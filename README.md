@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Curated-2026--10--05-0A7F5A?labelColor=333333" alt="Curated 2026-10-05">
+  <img src="https://img.shields.io/badge/Curated-2026--10--09-0A7F5A?labelColor=333333" alt="Curated 2026-10-09">
   <img src="https://img.shields.io/badge/Core%20paper%20lists-10%20each-3F88D6?labelColor=333333" alt="Core paper lists keep 10 entries each">
 </p>
 
@@ -62,7 +62,7 @@ alignment, online planning, or robustness evaluation.
 Section badges show the latest curation date. Core paper lists below keep the
 10 newest entries; reference sections may be shorter.
 
-## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--08-0A7F5A?labelColor=333333)
+## Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 Full archive: [Agentic Robotics](AGENTIC_ROBOTICS.md).
 
@@ -74,6 +74,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| SuperNav | SuperNav: An Agentic Navigation System for Any Task in Any Scene. | [arXiv](https://arxiv.org/abs/2610.12126) · [Project](https://zju3dv.github.io/SuperNav/) | ⭐⭐⭐ |
 | Agentic RSR | Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies. | [arXiv](https://arxiv.org/abs/2610.10479) | ⭐⭐⭐ |
 | OntoPlan | OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning. | [arXiv](https://arxiv.org/abs/2610.07649) | ⭐⭐⭐ |
 | RV-ICL | Recursive Video In-Context Learning for Agentic Robot. | [arXiv](https://arxiv.org/abs/2610.06843) | ⭐⭐⭐ |
@@ -83,7 +84,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | CognitiveReality | CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation. | [arXiv](https://arxiv.org/abs/2609.31418) | ⭐⭐⭐ |
 | RIVET | Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.31337) | ⭐⭐⭐ |
 | RAPID | RAPID: Robot Agentic Programming from Demonstrations. | [arXiv](https://arxiv.org/abs/2609.30249) · [Project](https://yuyaoliu.me) | ⭐⭐⭐ |
-| TANDEM | TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning. | [arXiv](https://arxiv.org/abs/2609.28314) | ⭐⭐⭐ |
 
 ## Surveys and Definitions ![Updated](https://img.shields.io/badge/Updated-2026--08--22-0A7F5A?labelColor=333333)
 
@@ -95,7 +95,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | World Model for Robot Learning | World Model for Robot Learning: A Comprehensive Survey. | [arXiv](https://arxiv.org/abs/2605.00080) · [Website](https://ntumars.github.io/wm-robot-survey/) · [Code](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) | ⭐⭐⭐ |
 | Embodied Agentic AI | Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction. | [arXiv](https://arxiv.org/abs/2508.05294) | ⭐⭐⭐ |
 
-## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--08-0A7F5A?labelColor=333333)
+## World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 
@@ -135,11 +135,11 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | VLAW | VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. | [arXiv](https://arxiv.org/abs/2602.12063) · [Website](https://sites.google.com/view/vlaw-arxiv) | ⭐⭐⭐ |
 | VLA-JEPA | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 
-### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--08-0A7F5A?labelColor=333333)
+### WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
-| Long-WAM | Long-WAM: Scaling the Context of World-Action Models. | [arXiv](https://arxiv.org/abs/2610.10528) | ⭐⭐⭐ |
+| PLaW-VLA | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
 | OpenWAM | OpenWAM: An Open Framework for Composable World-Action Models. | [arXiv](https://arxiv.org/abs/2610.07922) · [Project](https://openwam.stanford.edu/) · [Code](https://github.com/OpenWAM/OpenWAM) | ⭐⭐⭐ |
 | XGenAct | XGenAct: Geometry-Enhanced World Action Models through Cross-Task Generation. | [arXiv](https://arxiv.org/abs/2610.03516) | ⭐⭐⭐ |
 | Ego4WAM | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | [arXiv](https://arxiv.org/abs/2609.40341) | ⭐⭐⭐ |
@@ -150,7 +150,7 @@ Full archive: [World Action Models](WORLD_ACTION_MODELS.md).
 | DexTacWAM | DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2609.24976) · [Project](https://dextacwam.github.io/) | ⭐⭐⭐ |
 | SkelWAM | SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation. | [arXiv](https://arxiv.org/abs/2609.21983) · [Project](http://www.liukepku.com/skelwam/index.html) | ⭐⭐⭐ |
 
-## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--08-0A7F5A?labelColor=333333)
+## VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 Full archive: [VLA Failure Detection and Correction](VLA_FAILURE_DETECTION_AND_CORRECTION.md).
 
@@ -160,6 +160,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| RESETTLE | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control. | [arXiv](https://arxiv.org/abs/2610.12185) · [Code](https://github.com/JIA-Lab-research/RESETTLE) | ⭐⭐⭐ |
 | RoboPrompt | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input. | [arXiv](https://arxiv.org/abs/2610.10534) | ⭐⭐⭐ |
 | SALT | Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution. | [arXiv](https://arxiv.org/abs/2610.07946) | ⭐⭐⭐ |
 | VLA-ZO | VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.06271) | ⭐⭐⭐ |
@@ -169,9 +170,8 @@ self-evaluation, or policy/world-model co-improvement.
 | Kintsugi-VLA | Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability. | [arXiv](https://arxiv.org/abs/2609.31048) | ⭐⭐⭐ |
 | Self-Adaptive VLA | Self-Adaptive VLA for Robust Robot Deployment. | [arXiv](https://arxiv.org/abs/2609.30092) · [Project](https://icefoxzhx.github.io/) | ⭐⭐⭐ |
 | CereVLA | CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution. | [arXiv](https://arxiv.org/abs/2609.27468) | ⭐⭐⭐ |
-| CARE | CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.24118) · [Code](https://github.com/xiaojunlan/care) | ⭐⭐⭐ |
 
-## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--07-0A7F5A?labelColor=333333)
+## Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 
@@ -190,10 +190,11 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | Action-JND | Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.21247) | ⭐⭐⭐ |
 | BridgeVLA++ | BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation. | [arXiv](https://arxiv.org/abs/2608.05042) · [Code](https://github.com/BridgeVLA/BridgeVLA) | ⭐⭐⭐ |
 
-### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--10--05-0A7F5A?labelColor=333333)
+### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--10--09-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links | Relevance |
 | --- | --- | --- | --- |
+| PLaW-VLA | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
 | FastOPD | FastOPD: On-Policy Distillation for Lightweight VLA Deployment. | [arXiv](https://arxiv.org/abs/2610.02832) · [Project](https://fastopd.github.io) | ⭐⭐⭐ |
 | Discrete Forcing | Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts. | [arXiv](https://arxiv.org/abs/2609.39526) | ⭐⭐⭐ |
 | Decoupled Early Exits | Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. | [arXiv](https://arxiv.org/abs/2609.29382) | ⭐⭐⭐ |
@@ -203,7 +204,6 @@ Full archive: [Efficient VLA](EFFICIENT_VLA.md).
 | rMuscle | rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference. | [arXiv](https://arxiv.org/abs/2609.19104) | ⭐⭐⭐ |
 | DiffAdapterVLA | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs. | [arXiv](https://arxiv.org/abs/2609.15322) | ⭐⭐⭐ |
 | Dynin-Robotics | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) | ⭐⭐⭐ |
-| IMLE-VLA | IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.10915) · [Project](https://kianhk6.github.io/) | ⭐⭐⭐ |
 
 ## Benchmarks for Robustness and Evaluation ![Updated](https://img.shields.io/badge/Updated-2026--08--22-0A7F5A?labelColor=333333)
 
