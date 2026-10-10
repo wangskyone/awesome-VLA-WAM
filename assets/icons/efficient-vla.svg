@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+<title id="title">Efficient VLA: inference microchip</title>
+<rect x="5" y="6" width="57" height="57" rx="16" fill="#DFE2EA"/>
+<rect x="2" y="2" width="57" height="57" rx="16" fill="#C6DCF7" stroke="#26334D" stroke-width="2"/>
+<g color="#659ADE" stroke="#26334D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="18" y="18" width="28" height="28" rx="6"/>
+<path d="M25 12v6m14-6v6M25 46v6m14-6v6M12 25h6m-6 14h6m28-14h6m-6 14h6"/>
+<path d="m34 24-9 10h7l-2 7 10-12h-8Z" fill="currentColor" stroke-width="1.5"/>
+</g>
+</svg>
