@@ -20,6 +20,7 @@ self-evaluation, or policy/world-model co-improvement.
 | VLA-Corrector | VLA-Corrector: Stage-Aware Observable State Understanding for Prompt-Based Closed-Loop Recovery of Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.06508) |
 | FWBC-VLA | FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2609.03889) |
 | CorrectVLA | Training-Free Action Correction for VLA Model Failures via Language Feedback. | [arXiv](https://arxiv.org/abs/2608.29967) · [Project](https://correctvla.github.io) |
+| RL²-VLA | RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2607.26991) · [Project](https://rl2-vla.github.io/) · [Code](https://github.com/marmotlab/RL2-VLA) |
 | No Training, Better Flights | No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation. | [arXiv](https://arxiv.org/abs/2607.19288) |
 | Closing the Loop in Humanoid VLA | Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2607.18016) |
 | AC-VLA | Robust Out-of-Distribution Action Execution via Compositional Learning. | [arXiv](https://arxiv.org/abs/2607.15714) |
