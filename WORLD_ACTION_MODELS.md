@@ -1,4 +1,4 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--11-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--12-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -66,11 +66,12 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | UP-VLA | UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. | [arXiv](https://arxiv.org/abs/2501.18867) · [Website](https://github.com/CladernyJorn/UP-VLA) |
 | pi0.7 | pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. | [Website](https://www.pi.website/blog/pi07) |
 
-## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--11-0A7F5A?labelColor=333333)
+## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--12-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | Long-WAM | Long-WAM: Scaling the Context of World-Action Models. | [arXiv](https://arxiv.org/abs/2610.10528) |
+| PointCast | PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation. | [arXiv](https://arxiv.org/abs/2609.28393) · [Project](https://pointcast-wm.github.io) |
 | DexTacWAM | DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2609.24976) · [Project](https://dextacwam.github.io/) |
 | SkelWAM | SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation. | [arXiv](https://arxiv.org/abs/2609.21983) · [Project](http://www.liukepku.com/skelwam/index.html) |
 | Agile-WAM | Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control. | [arXiv](https://arxiv.org/abs/2609.20761) · [Project](https://hanchuzhou.github.io/TARO_project_page/) |

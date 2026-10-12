@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--11-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--12-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **BT-Agent** | BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation. | [arXiv](https://arxiv.org/abs/2610.13862) | ⭐⭐⭐ |
 | **SpatialHarness** | SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12457) · [Project](https://emilia113.github.io) | ⭐⭐⭐ |
 | **SuperNav** | SuperNav: An Agentic Navigation System for Any Task in Any Scene. | [arXiv](https://arxiv.org/abs/2610.12126) · [Project](https://zju3dv.github.io/SuperNav/) | ⭐⭐⭐ |
 | **Agentic RSR** | Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies. | [arXiv](https://arxiv.org/abs/2610.10479) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **DynaHarness** | DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents. | [arXiv](https://arxiv.org/abs/2609.40306) · [Project](https://denghaoyuan123.github.io/) | ⭐⭐⭐ |
 | **Skill-Space Shooting** | Skill-Space Shooting for Autonomous Robot Policy Improvement. | [arXiv](https://arxiv.org/abs/2609.38178) · [Project](https://skill-space-shooting.github.io/) | ⭐⭐⭐ |
 | **CognitiveReality** | CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation. | [arXiv](https://arxiv.org/abs/2609.31418) | ⭐⭐⭐ |
-| **RIVET** | Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.31337) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--11-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--12-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -214,6 +214,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SmolWAM** | SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices. | [arXiv](https://arxiv.org/abs/2610.13740) · [Project](https://smolwam.vercel.app/) · [Code](https://github.com/iitimii/SmolWAM) | ⭐⭐⭐ |
 | **DreamTrue** | DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training. | [arXiv](https://arxiv.org/abs/2610.12468) · [Project](https://brave-eai.github.io) | ⭐⭐⭐ |
 | **LeWAM** | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC. | [arXiv](https://arxiv.org/abs/2610.12407) | ⭐⭐⭐ |
 | **PLaW-VLA** | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
@@ -223,7 +224,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **MVG-WAM** | MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2609.37793) · [Project](https://bobc-123.github.io/MVG-WAM/) | ⭐⭐⭐ |
 | **InternW0-Δ** | InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data. | [arXiv](https://arxiv.org/abs/2609.31394) · [Project](https://internrobotics.github.io/InternW0-Delta/) | ⭐⭐⭐ |
 | **AD-WM** | AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control. | [arXiv](https://arxiv.org/abs/2609.30264) · [Project](https://ad-wm.github.io/) | ⭐⭐⭐ |
-| **PointCast** | PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation. | [arXiv](https://arxiv.org/abs/2609.28393) · [Project](https://pointcast-wm.github.io) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -231,7 +231,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--11-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--12-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -241,6 +241,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **OGPO** | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) | ⭐⭐⭐ |
 | **VersaCamVLA** | VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12451) · [Project](https://boyaohan.github.io) | ⭐⭐⭐ |
 | **RESETTLE** | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control. | [arXiv](https://arxiv.org/abs/2610.12185) · [Code](https://github.com/JIA-Lab-research/RESETTLE) | ⭐⭐⭐ |
 | **RoboPrompt** | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input. | [arXiv](https://arxiv.org/abs/2610.10534) | ⭐⭐⭐ |
@@ -250,7 +251,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Multi-Link Safety Filtering** | Multi-Link Safety Filtering for VLA Policies Around Moving Hazards. | [arXiv](https://arxiv.org/abs/2609.40007) · [Project](https://yathag.github.io/) | ⭐⭐⭐ |
 | **Rho** | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) | ⭐⭐⭐ |
 | **Kintsugi-VLA** | Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability. | [arXiv](https://arxiv.org/abs/2609.31048) | ⭐⭐⭐ |
-| **Self-Adaptive VLA** | Self-Adaptive VLA for Robust Robot Deployment. | [arXiv](https://arxiv.org/abs/2609.30092) · [Project](https://icefoxzhx.github.io/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -258,7 +258,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--09-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--12-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -266,10 +266,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Compression, Adaptation, and Model Merging
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--07-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--12-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **NSL** | Noise Space Learning for VLA Adaptation. | [arXiv](https://arxiv.org/abs/2610.13943) | ⭐⭐⭐ |
 | **ActTune** | ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference. | [arXiv](https://arxiv.org/abs/2610.08444) | ⭐⭐⭐ |
 | **VLA-ZO** | VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.06271) | ⭐⭐⭐ |
 | **Rho** | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) | ⭐⭐⭐ |
@@ -279,7 +280,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Beyond Data Scaling** | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.27550) · [Project](https://starvla.github.io/) | ⭐⭐⭐ |
 | **GVLA** | Gripper-aware Vision Language Action Models. | [arXiv](https://arxiv.org/abs/2608.24603) | ⭐⭐⭐ |
 | **Action-JND** | Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.21247) | ⭐⭐⭐ |
-| **BridgeVLA++** | BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation. | [arXiv](https://arxiv.org/abs/2608.05042) · [Code](https://github.com/BridgeVLA/BridgeVLA) | ⭐⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
