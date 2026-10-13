@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Curated-2026--10--11-0A7F5A?style=flat-square&amp;labelColor=253449" alt="Curated 2026-10-11">
+  <img src="https://img.shields.io/badge/Curated-2026--10--13-0A7F5A?style=flat-square&amp;labelColor=253449" alt="Curated 2026-10-13">
   <a href="#curation-policy"><img src="https://img.shields.io/badge/Core%20paper%20lists-10%20each-3F88D6?style=flat-square&amp;labelColor=253449" alt="Core paper lists keep 10 entries each"></a>
 </p>
 
@@ -231,7 +231,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--12-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--13-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -241,6 +241,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **Reflect-VLA** | Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.13453) | ⭐⭐⭐ |
 | **OGPO** | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) | ⭐⭐⭐ |
 | **VersaCamVLA** | VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12451) · [Project](https://boyaohan.github.io) | ⭐⭐⭐ |
 | **RESETTLE** | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control. | [arXiv](https://arxiv.org/abs/2610.12185) · [Code](https://github.com/JIA-Lab-research/RESETTLE) | ⭐⭐⭐ |
@@ -250,7 +251,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Detect and Suppress** | Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models. | [arXiv](https://arxiv.org/abs/2610.03498) | ⭐⭐⭐ |
 | **Multi-Link Safety Filtering** | Multi-Link Safety Filtering for VLA Policies Around Moving Hazards. | [arXiv](https://arxiv.org/abs/2609.40007) · [Project](https://yathag.github.io/) | ⭐⭐⭐ |
 | **Rho** | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) | ⭐⭐⭐ |
-| **Kintsugi-VLA** | Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability. | [arXiv](https://arxiv.org/abs/2609.31048) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
