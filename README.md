@@ -231,7 +231,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--13-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--14-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -241,6 +241,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **RARA** | RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.13578) · [Project](https://shua-kang.github.io/) | ⭐⭐⭐ |
 | **Reflect-VLA** | Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.13453) | ⭐⭐⭐ |
 | **OGPO** | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) | ⭐⭐⭐ |
 | **VersaCamVLA** | VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12451) · [Project](https://boyaohan.github.io) | ⭐⭐⭐ |
@@ -250,7 +251,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **VLA-ZO** | VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.06271) | ⭐⭐⭐ |
 | **Detect and Suppress** | Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models. | [arXiv](https://arxiv.org/abs/2610.03498) | ⭐⭐⭐ |
 | **Multi-Link Safety Filtering** | Multi-Link Safety Filtering for VLA Policies Around Moving Hazards. | [arXiv](https://arxiv.org/abs/2609.40007) · [Project](https://yathag.github.io/) | ⭐⭐⭐ |
-| **Rho** | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 

@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--13-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--14-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Rho | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) |
 | Kintsugi-VLA | Kintsugi-VLA: Turning Failed Robot Rollouts into Recovery Data through Interventional Recoverability. | [arXiv](https://arxiv.org/abs/2609.31048) |
 | Self-Adaptive VLA | Self-Adaptive VLA for Robust Robot Deployment. | [arXiv](https://arxiv.org/abs/2609.30092) · [Project](https://icefoxzhx.github.io/) |
 | CereVLA | CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution. | [arXiv](https://arxiv.org/abs/2609.27468) |
