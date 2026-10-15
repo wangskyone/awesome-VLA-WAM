@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/Curated-2026--10--13-0A7F5A?style=flat-square&amp;labelColor=253449" alt="Curated 2026-10-13">
+  <img src="https://img.shields.io/badge/Curated-2026--10--15-0A7F5A?style=flat-square&amp;labelColor=253449" alt="Curated 2026-10-15">
   <a href="#curation-policy"><img src="https://img.shields.io/badge/Core%20paper%20lists-10%20each-3F88D6?style=flat-square&amp;labelColor=253449" alt="Core paper lists keep 10 entries each"></a>
 </p>
 
@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--12-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **AdaRSI** | AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents. | [arXiv](https://arxiv.org/abs/2610.20474) | ⭐⭐⭐ |
 | **BT-Agent** | BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation. | [arXiv](https://arxiv.org/abs/2610.13862) | ⭐⭐⭐ |
 | **SpatialHarness** | SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12457) · [Project](https://emilia113.github.io) | ⭐⭐⭐ |
 | **SuperNav** | SuperNav: An Agentic Navigation System for Any Task in Any Scene. | [arXiv](https://arxiv.org/abs/2610.12126) · [Project](https://zju3dv.github.io/SuperNav/) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **MobiAgent** | MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation. | [arXiv](https://arxiv.org/abs/2610.03476) · [Project](https://kaiknower.github.io) | ⭐⭐⭐ |
 | **DynaHarness** | DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents. | [arXiv](https://arxiv.org/abs/2609.40306) · [Project](https://denghaoyuan123.github.io/) | ⭐⭐⭐ |
 | **Skill-Space Shooting** | Skill-Space Shooting for Autonomous Robot Policy Improvement. | [arXiv](https://arxiv.org/abs/2609.38178) · [Project](https://skill-space-shooting.github.io/) | ⭐⭐⭐ |
-| **CognitiveReality** | CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation. | [arXiv](https://arxiv.org/abs/2609.31418) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,11 +160,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--12-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
-**Jump to:** [Robustness & Security](#robustness-and-security) · [Video Generation](#video-generation-based-wam) · [VLM-Based](#vlm-based-wam) · [Latent Dynamics](#wam-from-scratch-and-latent-dynamics)
+**Jump to:** [Robustness & Security](#robustness-and-security) · [Video Generation](#video-generation-based-wam) · [VLM-Based](#vlm-based-wam) · [Efficient Inference](#efficient-inference-for-wams) · [Latent Dynamics](#wam-from-scratch-and-latent-dynamics)
 
 ### Robustness and Security
 
@@ -208,6 +208,14 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **VLAW** | VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. | [arXiv](https://arxiv.org/abs/2602.12063) · [Website](https://sites.google.com/view/vlaw-arxiv) | ⭐⭐⭐ |
 | **VLA-JEPA** | VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model. | [arXiv](https://arxiv.org/abs/2602.10098) · [Website](https://ginwind.github.io/VLA-JEPA/) | ⭐⭐⭐ |
 
+### Efficient Inference for WAMs
+
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-1FA7A3?style=flat-square&labelColor=253449)
+
+| Paper | Title | Links | Relevance |
+| :--- | :--- | :--- | :---: |
+| **CF-Prune** | Complementary Future Token Pruning for World Action Models. | [arXiv](https://arxiv.org/abs/2610.19957) | ⭐⭐⭐ |
+
 ### WAM from Scratch and Latent Dynamics
 
 ![Updated](https://img.shields.io/badge/Updated-2026--10--11-1FA7A3?style=flat-square&labelColor=253449)
@@ -231,7 +239,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--14-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -241,6 +249,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SafeDriveVLA** | SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.20609) · [Project](https://safedrive-vla.github.io/) | ⭐⭐⭐ |
 | **RARA** | RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.13578) · [Project](https://shua-kang.github.io/) | ⭐⭐⭐ |
 | **Reflect-VLA** | Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.13453) | ⭐⭐⭐ |
 | **OGPO** | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) | ⭐⭐⭐ |
@@ -250,7 +259,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **SALT** | Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution. | [arXiv](https://arxiv.org/abs/2610.07946) | ⭐⭐⭐ |
 | **VLA-ZO** | VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.06271) | ⭐⭐⭐ |
 | **Detect and Suppress** | Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models. | [arXiv](https://arxiv.org/abs/2610.03498) | ⭐⭐⭐ |
-| **Multi-Link Safety Filtering** | Multi-Link Safety Filtering for VLA Policies Around Moving Hazards. | [arXiv](https://arxiv.org/abs/2609.40007) · [Project](https://yathag.github.io/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -258,7 +266,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--12-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -283,10 +291,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--09-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--15-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **Discrete Actions** | When Do Discrete Actions Make Good Continuous Controllers? | [arXiv](https://arxiv.org/abs/2610.20429) · [Project](https://iscoyizj.github.io/) | ⭐⭐⭐ |
 | **PLaW-VLA** | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
 | **FastOPD** | FastOPD: On-Policy Distillation for Lightweight VLA Deployment. | [arXiv](https://arxiv.org/abs/2610.02832) · [Project](https://fastopd.github.io) | ⭐⭐⭐ |
 | **Discrete Forcing** | Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts. | [arXiv](https://arxiv.org/abs/2609.39526) | ⭐⭐⭐ |
@@ -296,7 +305,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **GeoAAC** | GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies. | [arXiv](https://arxiv.org/abs/2609.20776) | ⭐⭐⭐ |
 | **rMuscle** | rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference. | [arXiv](https://arxiv.org/abs/2609.19104) | ⭐⭐⭐ |
 | **DiffAdapterVLA** | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs. | [arXiv](https://arxiv.org/abs/2609.15322) | ⭐⭐⭐ |
-| **Dynin-Robotics** | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
