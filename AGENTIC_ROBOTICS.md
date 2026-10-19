@@ -11,6 +11,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | Paper | Title | Links |
 | --- | --- | --- |
 | Skill-Space Shooting | Skill-Space Shooting for Autonomous Robot Policy Improvement. | [arXiv](https://arxiv.org/abs/2609.38178) · [Project](https://skill-space-shooting.github.io/) |
+| RHD | Recursive Harness Distillation across Agents for Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.33378) · [Project](https://seungyeon.me/RHD/) |
 | CognitiveReality | CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation. | [arXiv](https://arxiv.org/abs/2609.31418) |
 | RIVET | Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.31337) |
 | RAPID | RAPID: Robot Agentic Programming from Demonstrations. | [arXiv](https://arxiv.org/abs/2609.30249) · [Project](https://yuyaoliu.me) |
