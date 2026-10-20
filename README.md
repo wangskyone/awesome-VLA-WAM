@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--16-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--20-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -168,10 +168,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Robustness and Security
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--06-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--20-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **PICA-WAM** | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models. | [arXiv](https://arxiv.org/abs/2610.26813) · [Code](https://github.com/YudeZou/PICA-WAM-release) | ⭐⭐⭐ |
 | **TAPDreamer** | TAPDreamer: Transferable Adversarial Patches for World Action Models. | [arXiv](https://arxiv.org/abs/2610.06814) · [Project](https://tapdreamer.github.io/) | ⭐⭐⭐ |
 
 ### Video-Generation-Based WAM
@@ -266,7 +267,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--16-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--20-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -274,10 +275,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Compression, Adaptation, and Model Merging
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--19-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--20-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SPAR** | SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.26487) | ⭐⭐⭐ |
 | **MambaAct** | MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.22951) · [Code](https://github.com/giakhuyendihoc/MambaAct) | ⭐⭐⭐ |
 | **REKI** | REKI: Registering Knowledge in VLAs. | [arXiv](https://arxiv.org/abs/2610.22178) · [Code](https://github.com/kyutai-labs/reki) | ⭐⭐⭐ |
 | **NSL** | Noise Space Learning for VLA Adaptation. | [arXiv](https://arxiv.org/abs/2610.13943) | ⭐⭐⭐ |
@@ -287,7 +289,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **FRAM** | FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.30965) | ⭐⭐⭐ |
 | **ε4P** | Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2609.26672) · [Project](https://varepsilon4p.github.io/) | ⭐⭐⭐ |
 | **AdaDE** | Dense to MoE Adaptation for Compact Vision Language Action Policies. | [arXiv](https://arxiv.org/abs/2609.16503) | ⭐⭐⭐ |
-| **Beyond Data Scaling** | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.27550) · [Project](https://starvla.github.io/) | ⭐⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 

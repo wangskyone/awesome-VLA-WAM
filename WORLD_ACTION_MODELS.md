@@ -1,8 +1,14 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--16-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--20-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
+
+## Robustness and Security ![Updated](https://img.shields.io/badge/Updated-2026--10--20-0A7F5A?labelColor=333333)
+
+| Paper | Title | Links |
+| --- | --- | --- |
+| PICA-WAM | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models. | [arXiv](https://arxiv.org/abs/2610.26813) · [Code](https://github.com/YudeZou/PICA-WAM-release) |
 
 ## Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
 
