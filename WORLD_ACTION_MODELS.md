@@ -1,4 +1,4 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--21-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--10--23-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -72,10 +72,12 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | UP-VLA | UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. | [arXiv](https://arxiv.org/abs/2501.18867) · [Website](https://github.com/CladernyJorn/UP-VLA) |
 | pi0.7 | pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. | [Website](https://www.pi.website/blog/pi07) |
 
-## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--21-0A7F5A?labelColor=333333)
+## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--10--23-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| UniFlowWAM | UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry. | [arXiv](https://arxiv.org/abs/2610.30991) |
+| Ego4WAM | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | [arXiv](https://arxiv.org/abs/2609.40341) |
 | Long-WAM | Long-WAM: Scaling the Context of World-Action Models. | [arXiv](https://arxiv.org/abs/2610.10528) |
 | MVG-WAM | MVG-WAM: Multiple View Geometry-Aware World-Action Modeling for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2609.37793) · [Project](https://bobc-123.github.io/MVG-WAM/) |
 | InternW0-Δ | InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data. | [arXiv](https://arxiv.org/abs/2609.31394) · [Project](https://internrobotics.github.io/InternW0-Delta/) |
