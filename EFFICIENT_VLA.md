@@ -1,4 +1,4 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--23-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--26-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -34,10 +34,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | FLOWER | FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. | [arXiv](https://arxiv.org/abs/2509.04996) · [Website](https://intuitive-robots.github.io/flower_vla/) |
 | TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--10--23-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--10--26-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Coupling Execution Horizon and Sampling Depth | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies. | [arXiv](https://arxiv.org/abs/2610.32102) |
 | When One Step Is Enough | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2610.30735) |
 | DiffAdapterVLA | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs. | [arXiv](https://arxiv.org/abs/2609.15322) |
 | Discrete Actions | When Do Discrete Actions Make Good Continuous Controllers? | [arXiv](https://arxiv.org/abs/2610.20429) · [Project](https://iscoyizj.github.io/) |
