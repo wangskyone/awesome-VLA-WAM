@@ -1,4 +1,4 @@
-# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--26-0A7F5A?labelColor=333333)
+# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--10--28-0A7F5A?labelColor=333333)
 
 Full retained list for the `Agentic Robotics (New Trend)` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -12,6 +12,7 @@ libraries, policy self-improvement, and long-horizon execution.
 | --- | --- | --- |
 | FORCA | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation. | [arXiv](https://arxiv.org/abs/2610.31841) · [Project](https://tanoom.github.io) |
 | FastHarness | FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.31427) |
+| Agentic RSR | Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies. | [arXiv](https://arxiv.org/abs/2610.10479) |
 | OntoPlan | OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning. | [arXiv](https://arxiv.org/abs/2610.07649) |
 | RV-ICL | Recursive Video In-Context Learning for Agentic Robot. | [arXiv](https://arxiv.org/abs/2610.06843) |
 | MobiAgent | MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation. | [arXiv](https://arxiv.org/abs/2610.03476) · [Project](https://kaiknower.github.io) |

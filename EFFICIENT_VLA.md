@@ -1,13 +1,14 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--26-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--10--28-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
 
-## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--10--20-0A7F5A?labelColor=333333)
+## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--10--28-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| AdaDE | Dense to MoE Adaptation for Compact Vision Language Action Policies. | [arXiv](https://arxiv.org/abs/2609.16503) |
 | Beyond Data Scaling | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.27550) · [Project](https://starvla.github.io/) |
 | GVLA | Gripper-aware Vision Language Action Models. | [arXiv](https://arxiv.org/abs/2608.24603) |
 | Action-JND | Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.21247) |
