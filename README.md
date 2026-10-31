@@ -240,7 +240,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--28-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--10--31-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -250,6 +250,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **How Much Should a VLA Trust Its Reasoning?** | How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function. | [arXiv](https://arxiv.org/abs/2610.40002) | ⭐⭐⭐ |
 | **RoboDuo** | RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.34108) | ⭐⭐⭐ |
 | **Backtrack** | If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs. | [arXiv](https://arxiv.org/abs/2610.32941) | ⭐⭐⭐ |
 | **Progress Probes P²** | Progress Probes P²: Lightweight Runtime Monitoring for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.31613) | ⭐⭐⭐ |
@@ -259,7 +260,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **SafeDriveVLA** | SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.20609) · [Project](https://safedrive-vla.github.io/) | ⭐⭐⭐ |
 | **RARA** | RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.13578) · [Project](https://shua-kang.github.io/) | ⭐⭐⭐ |
 | **Reflect-VLA** | Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.13453) | ⭐⭐⭐ |
-| **OGPO** | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
