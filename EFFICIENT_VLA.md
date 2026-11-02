@@ -4,10 +4,11 @@ Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.m
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
 
-## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--10--28-0A7F5A?labelColor=333333)
+## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--11--02-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| QbD-VLA | Quantize by Doing: Task-Guided Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.38661) · [Code](https://github.com/jiuyixu25/QbD-VLA) |
 | AdaDE | Dense to MoE Adaptation for Compact Vision Language Action Policies. | [arXiv](https://arxiv.org/abs/2609.16503) |
 | Beyond Data Scaling | Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2608.27550) · [Project](https://starvla.github.io/) |
 | GVLA | Gripper-aware Vision Language Action Models. | [arXiv](https://arxiv.org/abs/2608.24603) |
