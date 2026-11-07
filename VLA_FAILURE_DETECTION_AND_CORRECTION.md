@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--10--31-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--11--07-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -13,6 +13,7 @@ self-evaluation, or policy/world-model co-improvement.
 | OGPO | OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.12914) |
 | Backtrack | If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs. | [arXiv](https://arxiv.org/abs/2610.32941) |
 | Progress Probes P² | Progress Probes P²: Lightweight Runtime Monitoring for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.31613) |
+| Reflect-VLA | Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.13453) |
 | VersaCamVLA | VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2610.12451) · [Project](https://boyaohan.github.io) |
 | RESETTLE | RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control. | [arXiv](https://arxiv.org/abs/2610.12185) · [Code](https://github.com/JIA-Lab-research/RESETTLE) |
 | RoboPrompt | RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input. | [arXiv](https://arxiv.org/abs/2610.10534) |
