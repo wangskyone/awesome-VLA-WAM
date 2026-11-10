@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--08-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **AMP1** | On Agentic Manipulation Policies. | [arXiv](https://arxiv.org/abs/2611.09892) | ⭐⭐⭐ |
 | **PAVE** | Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks. | [arXiv](https://arxiv.org/abs/2611.08075) · [Project](https://proroklab.github.io/PAVE/) | ⭐⭐⭐ |
 | **MessyNav** | MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments. | [arXiv](https://arxiv.org/abs/2611.07417) · [Project](https://messynav.github.io/) | ⭐⭐⭐ |
 | **ZAP** | Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent. | [arXiv](https://arxiv.org/abs/2610.35817) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **LAW** | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence. | [arXiv](https://arxiv.org/abs/2610.23334) | ⭐⭐⭐ |
 | **Value as Memory** | Value as Memory: Online Value-Guided Post-training for General Robot Policies. | [arXiv](https://arxiv.org/abs/2610.22368) | ⭐⭐⭐ |
 | **AdaRSI** | AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents. | [arXiv](https://arxiv.org/abs/2610.20474) | ⭐⭐⭐ |
-| **BT-Agent** | BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation. | [arXiv](https://arxiv.org/abs/2610.13862) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--08-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -219,10 +219,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### WAM from Scratch and Latent Dynamics
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--08-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **MDF++** | MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning. | [arXiv](https://arxiv.org/abs/2611.09293) · [Project](https://jointmdf.github.io/) | ⭐⭐⭐ |
 | **GPWM** | GPWM: Modeling the World as 3D Particle Motion. | [arXiv](https://arxiv.org/abs/2611.08338) · [Project](https://robertren1122.github.io/gpwm/) | ⭐⭐⭐ |
 | **La-JEPA** | La-JEPA: Compact Robot Policies with Latent World Modeling. | [arXiv](https://arxiv.org/abs/2611.08156) · [Code](https://github.com/mt-clemente/lajepa) | ⭐⭐⭐ |
 | **OSWAM** | OSWAM: An Effective World Action Model with One-Step Action Generation. | [arXiv](https://arxiv.org/abs/2610.35850) · [Project](https://gwenzhang.github.io/OSWAM/) | ⭐⭐⭐ |
@@ -232,7 +233,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **P³-WAM** | Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation. | [arXiv](https://arxiv.org/abs/2610.22363) · [Project](https://p3-wam.pages.dev/) | ⭐⭐⭐ |
 | **SmolWAM** | SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices. | [arXiv](https://arxiv.org/abs/2610.13740) · [Project](https://smolwam.vercel.app/) · [Code](https://github.com/iitimii/SmolWAM) | ⭐⭐⭐ |
 | **DreamTrue** | DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training. | [arXiv](https://arxiv.org/abs/2610.12468) · [Project](https://brave-eai.github.io) | ⭐⭐⭐ |
-| **LeWAM** | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC. | [arXiv](https://arxiv.org/abs/2610.12407) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -240,7 +240,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--08-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -250,6 +250,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **Weight-Space Debugging** | Can LLMs Debug Robots by Editing Their Weights? | [arXiv](https://arxiv.org/abs/2611.09376) | ⭐⭐⭐ |
 | **OopsieRecover** | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions. | [arXiv](https://arxiv.org/abs/2611.08462) · [Project](https://robin-lab.cs.utexas.edu/oopsierecover/) | ⭐⭐⭐ |
 | **VLA-Tug** | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing. | [arXiv](https://arxiv.org/abs/2611.08425) · [Project](https://vla-tug.github.io/) | ⭐⭐⭐ |
 | **How Much Should a VLA Trust Its Reasoning?** | How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function. | [arXiv](https://arxiv.org/abs/2610.40002) | ⭐⭐⭐ |
@@ -259,7 +260,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Perceives but Doesn't Brake** | Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs. | [arXiv](https://arxiv.org/abs/2610.28184) | ⭐⭐⭐ |
 | **Look Before You Act** | Look Before You Act: Bridging Active Perception and Vision-Language-Action Models via Observation-Aligned Data Adaptation. | [arXiv](https://arxiv.org/abs/2610.23378) | ⭐⭐⭐ |
 | **VeriVLA** | VeriVLA: Adaptive Test-Time Verification for Flow-Based VLAs with Latent World Models. | [arXiv](https://arxiv.org/abs/2610.21985) | ⭐⭐⭐ |
-| **SafeDriveVLA** | SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving. | [arXiv](https://arxiv.org/abs/2610.20609) · [Project](https://safedrive-vla.github.io/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -267,7 +267,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--07-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -292,10 +292,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--28-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--10-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SURE** | SURE: Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning. | [arXiv](https://arxiv.org/abs/2611.09684) | ⭐⭐⭐ |
 | **JADE** | Vision-Language Models Are Joint Denoisers in Robotic Action Generation. | [arXiv](https://arxiv.org/abs/2611.01215) | ⭐⭐⭐ |
 | **Coupling Execution Horizon and Sampling Depth** | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies. | [arXiv](https://arxiv.org/abs/2610.32102) | ⭐⭐⭐ |
 | **When One Step Is Enough** | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2610.30735) | ⭐⭐⭐ |
@@ -305,7 +306,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Discrete Forcing** | Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts. | [arXiv](https://arxiv.org/abs/2609.39526) | ⭐⭐⭐ |
 | **Decoupled Early Exits** | Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. | [arXiv](https://arxiv.org/abs/2609.29382) | ⭐⭐⭐ |
 | **Think Like a World Model** | Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies. | [arXiv](https://arxiv.org/abs/2609.24682) · [Project](https://thaw-vla.trung-dt.com/) | ⭐⭐⭐ |
-| **GeoAAC** | GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies. | [arXiv](https://arxiv.org/abs/2609.20776) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 

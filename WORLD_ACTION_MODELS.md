@@ -1,4 +1,4 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--11--08-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--11--10-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -72,11 +72,12 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | UP-VLA | UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. | [arXiv](https://arxiv.org/abs/2501.18867) · [Website](https://github.com/CladernyJorn/UP-VLA) |
 | pi0.7 | pi0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. | [Website](https://www.pi.website/blog/pi07) |
 
-## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--11--08-0A7F5A?labelColor=333333)
+## WAM from Scratch and Latent Dynamics ![Updated](https://img.shields.io/badge/Updated-2026--11--10-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | UniFlowWAM | UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry. | [arXiv](https://arxiv.org/abs/2610.30991) |
+| LeWAM | LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC. | [arXiv](https://arxiv.org/abs/2610.12407) |
 | PLaW-VLA | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) |
 | Ego4WAM | Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning? | [arXiv](https://arxiv.org/abs/2609.40341) |
 | Long-WAM | Long-WAM: Scaling the Context of World-Action Models. | [arXiv](https://arxiv.org/abs/2610.10528) |
