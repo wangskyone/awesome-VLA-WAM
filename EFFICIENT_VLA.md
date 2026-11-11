@@ -1,14 +1,15 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--10-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--11-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
 
 
-## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--11--07-0A7F5A?labelColor=333333)
+## Compression, Adaptation, and Model Merging ![Updated](https://img.shields.io/badge/Updated-2026--11--11-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
 | QbD-VLA | Quantize by Doing: Task-Guided Mixed-Precision Quantization of Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.38661) · [Code](https://github.com/jiuyixu25/QbD-VLA) |
+| Rho | Rho: A Foundation for Efficiently Adaptable VLA Models. | [arXiv](https://arxiv.org/abs/2609.38164) |
 | FRAM | FRAM: Trajectory-Guided Visual Feature Selection for Compact Language-Conditioned Robot Manipulation. | [arXiv](https://arxiv.org/abs/2609.30965) |
 | AdaDE | Dense to MoE Adaptation for Compact Vision Language Action Policies. | [arXiv](https://arxiv.org/abs/2609.16503) |
 | ε4P | Imperfection for Precision: Upcycling Imperfect Data for High-Precision Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2609.26672) · [Project](https://varepsilon4p.github.io/) |
