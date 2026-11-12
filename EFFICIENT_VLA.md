@@ -1,4 +1,4 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--11-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--12-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -39,7 +39,7 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | FLOWER | FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. | [arXiv](https://arxiv.org/abs/2509.04996) · [Website](https://intuitive-robots.github.io/flower_vla/) |
 | TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--11--10-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--11--12-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
@@ -50,6 +50,7 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | DiffAdapterVLA | Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs. | [arXiv](https://arxiv.org/abs/2609.15322) |
 | Discrete Actions | When Do Discrete Actions Make Good Continuous Controllers? | [arXiv](https://arxiv.org/abs/2610.20429) · [Project](https://iscoyizj.github.io/) |
 | LiMA | LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion. | [arXiv](https://arxiv.org/abs/2609.28431) · [Project](https://ccdcs.github.io/LiMA_repo/) |
+| Think Like a World Model | Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies. | [arXiv](https://arxiv.org/abs/2609.24682) · [Project](https://thaw-vla.trung-dt.com/) |
 | Dynin-Robotics | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model. | [arXiv](https://arxiv.org/abs/2609.13053) · [Project](https://dynin.ai/robotics/) · [Code](https://github.com/AIDASLab/Dynin-Robotics) |
 | IMLE-VLA | IMLE-VLA: Fast Single-Step Action Generation for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2609.10915) · [Project](https://kianhk6.github.io/) |
 | ComVLA | ComVLA: Communication-Aware Split Inference for VLA Models in 6G-Connected Robotics. | [arXiv](https://arxiv.org/abs/2609.07838) |
