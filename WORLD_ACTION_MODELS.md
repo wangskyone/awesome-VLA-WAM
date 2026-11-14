@@ -1,4 +1,4 @@
-# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--11--12-0A7F5A?labelColor=333333)
+# World Action Models ![Updated](https://img.shields.io/badge/Updated-2026--11--14-0A7F5A?labelColor=333333)
 
 Full retained list for the `World Action Models` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,10 +10,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | --- | --- | --- |
 | PICA-WAM | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models. | [arXiv](https://arxiv.org/abs/2610.26813) · [Code](https://github.com/YudeZou/PICA-WAM-release) |
 
-## Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--07--22-0A7F5A?labelColor=333333)
+## Video-Generation-Based WAM ![Updated](https://img.shields.io/badge/Updated-2026--11--14-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Surgical WAM | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning. | [arXiv](https://arxiv.org/abs/2608.11204) |
 | ST-WAM | ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts. | [arXiv](https://arxiv.org/abs/2607.28993) · [Website](https://thu-wangmx.github.io/st-wam/) · [Code](https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model) |
 | Masked Visual Actions | Masked Visual Actions for Unified World Modeling. | [arXiv](https://arxiv.org/abs/2607.19343) · [Website](https://masked-visual-actions.github.io/) |
 | AeroAct | AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight. | [arXiv](https://arxiv.org/abs/2607.14997) |

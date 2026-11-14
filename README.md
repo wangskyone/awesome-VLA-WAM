@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--12-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **NSDL** | NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning. | [arXiv](https://arxiv.org/abs/2611.16671) · [Code](https://github.com/Xincheng-Tan/NSDL) | ⭐⭐⭐ |
 | **RoboACE** | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement. | [arXiv](https://arxiv.org/abs/2611.13034) · [Code](https://github.com/DeLin1001/RoboACE) | ⭐⭐⭐ |
 | **RoboScript** | World In-Context Learning for Agentic Robot Manipulation. | [arXiv](https://arxiv.org/abs/2611.12885) · [Code](https://github.com/ArcheOne-AI/RoboScript) | ⭐⭐⭐ |
 | **AMP1** | On Agentic Manipulation Policies. | [arXiv](https://arxiv.org/abs/2611.09892) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **FORCA** | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation. | [arXiv](https://arxiv.org/abs/2610.31841) · [Project](https://tanoom.github.io) | ⭐⭐⭐ |
 | **FastHarness** | FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.31427) | ⭐⭐⭐ |
 | **AgenticRoboRL** | AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics. | [arXiv](https://arxiv.org/abs/2610.28589) | ⭐⭐⭐ |
-| **LAW** | LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence. | [arXiv](https://arxiv.org/abs/2610.23334) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--12-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -177,10 +177,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Video-Generation-Based WAM
 
-![Updated](https://img.shields.io/badge/Updated-2026--09--25-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **FLUX-mimic** | Video-Action Models for Data-Efficient Industrial Manipulation. | [arXiv](https://arxiv.org/abs/2611.15974) | ⭐⭐⭐ |
 | **Rolling-WAM** | Rolling-WAM: World Action Models with Rolling Imagination. | [arXiv](https://arxiv.org/abs/2609.30247) · [Project](https://rolling-wam.github.io/) | ⭐⭐⭐ |
 | **CLAP** | CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators. | [arXiv](https://arxiv.org/abs/2608.27406) · [Project](https://omni-clap.github.io/) | ⭐⭐⭐ |
 | **TacPAC** | TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation. | [arXiv](https://arxiv.org/abs/2609.05266) · [Code](https://github.com/LogosRoboticsGroup/TacPAC) | ⭐⭐⭐ |
@@ -190,7 +191,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **AcrossVAM1.0** | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction. | [arXiv](https://arxiv.org/abs/2608.28491) | ⭐⭐⭐ |
 | **Zero-WAM** | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. | [arXiv](https://arxiv.org/abs/2608.26103) · [Project](https://robbyant-research.github.io/) | ⭐⭐⭐ |
 | **WorldSync** | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning. | [arXiv](https://arxiv.org/abs/2608.24885) | ⭐⭐⭐ |
-| **Surgical WAM** | Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning. | [arXiv](https://arxiv.org/abs/2608.11204) | ⭐⭐⭐ |
 
 ### VLM-Based WAM
 
@@ -240,7 +240,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--12-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -250,6 +250,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **MOSAIC** | MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes. | [arXiv](https://arxiv.org/abs/2611.15937) · [Project](https://mmahdavian.github.io/MOSAIC/) | ⭐⭐⭐ |
 | **Temporal Shortcuts** | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies. | [arXiv](https://arxiv.org/abs/2611.14488) · [Code](https://github.com/bennidict23/memory-clock) | ⭐⭐⭐ |
 | **Closed-Form Instruction Distillation** | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading. | [arXiv](https://arxiv.org/abs/2611.11894) · [Project](https://ali-adeeb.com/weightsmith/) · [Code](https://github.com/adeeb10abbas/weightsmith) | ⭐⭐⭐ |
 | **Weight-Space Debugging** | Can LLMs Debug Robots by Editing Their Weights? | [arXiv](https://arxiv.org/abs/2611.09376) | ⭐⭐⭐ |
@@ -259,7 +260,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **RoboDuo** | RoboDuo: Attempt, Check and Atomic Recovery through Code for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.34108) | ⭐⭐⭐ |
 | **Backtrack** | If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs. | [arXiv](https://arxiv.org/abs/2610.32941) | ⭐⭐⭐ |
 | **Progress Probes P²** | Progress Probes P²: Lightweight Runtime Monitoring for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.31613) | ⭐⭐⭐ |
-| **Perceives but Doesn't Brake** | Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs. | [arXiv](https://arxiv.org/abs/2610.28184) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -267,7 +267,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--12-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -292,10 +292,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--12-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--14-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SALA** | SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models. | [arXiv](https://arxiv.org/abs/2611.17110) · [Project](https://sala-vla.github.io/) | ⭐⭐⭐ |
 | **CIALLO** | CIALLO: Learning Shared Intent Representations for Cross-Embodiment Manipulation. | [arXiv](https://arxiv.org/abs/2611.13732) | ⭐⭐⭐ |
 | **SURE** | SURE: Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning. | [arXiv](https://arxiv.org/abs/2611.09684) | ⭐⭐⭐ |
 | **JADE** | Vision-Language Models Are Joint Denoisers in Robotic Action Generation. | [arXiv](https://arxiv.org/abs/2611.01215) | ⭐⭐⭐ |
@@ -305,7 +306,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **PLaW-VLA** | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
 | **FastOPD** | FastOPD: On-Policy Distillation for Lightweight VLA Deployment. | [arXiv](https://arxiv.org/abs/2610.02832) · [Project](https://fastopd.github.io) | ⭐⭐⭐ |
 | **Discrete Forcing** | Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts. | [arXiv](https://arxiv.org/abs/2609.39526) | ⭐⭐⭐ |
-| **Decoupled Early Exits** | Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. | [arXiv](https://arxiv.org/abs/2609.29382) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
