@@ -1,4 +1,4 @@
-# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--11--20-0A7F5A?labelColor=333333)
+# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--11--21-0A7F5A?labelColor=333333)
 
 Full retained list for the `Agentic Robotics (New Trend)` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| MessyNav | MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments. | [arXiv](https://arxiv.org/abs/2611.07417) · [Project](https://messynav.github.io/) |
 | ZAP | Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent. | [arXiv](https://arxiv.org/abs/2610.35817) |
 | FORCA | FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation. | [arXiv](https://arxiv.org/abs/2610.31841) · [Project](https://tanoom.github.io) |
 | FastHarness | FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.31427) |

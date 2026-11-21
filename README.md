@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--20-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **PGX** | PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2611.26596) · [Project](https://kl-research.github.io/pgx) | ⭐⭐⭐ |
 | **F³** | F³: What Makes Good Experience in World-Action Models? | [arXiv](https://arxiv.org/abs/2611.24708) | ⭐⭐⭐ |
 | **InteractVLA** | InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2611.22584) · [Project](https://lingwupro.github.io/InteractVLA/) · [Code](https://github.com/LingwuPro/InteractVLA) | ⭐⭐⭐ |
 | **Lazy-MOSAIC** | Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models. | [arXiv](https://arxiv.org/abs/2611.21517) · [Project](https://skill-mosaic.github.io) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **RoboScript** | World In-Context Learning for Agentic Robot Manipulation. | [arXiv](https://arxiv.org/abs/2611.12885) · [Code](https://github.com/ArcheOne-AI/RoboScript) | ⭐⭐⭐ |
 | **AMP1** | On Agentic Manipulation Policies. | [arXiv](https://arxiv.org/abs/2611.09892) | ⭐⭐⭐ |
 | **PAVE** | Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks. | [arXiv](https://arxiv.org/abs/2611.08075) · [Project](https://proroklab.github.io/PAVE/) | ⭐⭐⭐ |
-| **MessyNav** | MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments. | [arXiv](https://arxiv.org/abs/2611.07417) · [Project](https://messynav.github.io/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--20-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -211,10 +211,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Efficient Inference for WAMs
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--15-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **LAQ** | Don't Lose the Future: Latent-Aware 4-Bit Quantization of World Action Models. | [arXiv](https://arxiv.org/abs/2611.25614) | ⭐⭐⭐ |
 | **CF-Prune** | Complementary Future Token Pruning for World Action Models. | [arXiv](https://arxiv.org/abs/2610.19957) | ⭐⭐⭐ |
 
 ### WAM from Scratch and Latent Dynamics
@@ -240,7 +241,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--20-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -250,6 +251,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **R2-VLA** | Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.26438) | ⭐⭐⭐ |
 | **RECLAIM** | RECLAIM: Robot-Vision-Informed Adversarial Patch Defense via Embodied Attention Feedback. | [arXiv](https://arxiv.org/abs/2611.24494) | ⭐⭐⭐ |
 | **Fly as Instructed** | Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation. | [arXiv](https://arxiv.org/abs/2611.22883) | ⭐⭐⭐ |
 | **FAVR** | FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2611.20971) | ⭐⭐⭐ |
@@ -259,7 +261,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Closed-Form Instruction Distillation** | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading. | [arXiv](https://arxiv.org/abs/2611.11894) · [Project](https://ali-adeeb.com/weightsmith/) · [Code](https://github.com/adeeb10abbas/weightsmith) | ⭐⭐⭐ |
 | **Weight-Space Debugging** | Can LLMs Debug Robots by Editing Their Weights? | [arXiv](https://arxiv.org/abs/2611.09376) | ⭐⭐⭐ |
 | **OopsieRecover** | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions. | [arXiv](https://arxiv.org/abs/2611.08462) · [Project](https://robin-lab.cs.utexas.edu/oopsierecover/) | ⭐⭐⭐ |
-| **VLA-Tug** | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing. | [arXiv](https://arxiv.org/abs/2611.08425) · [Project](https://vla-tug.github.io/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -267,7 +268,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--20-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -292,10 +293,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--20-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--21-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **FastRoverVLA** | FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.26242) · [Project](https://adept-org.github.io/FastRoverVLA/) · [Code](https://github.com/ADEPT-ORG/FastRoverVLA) | ⭐⭐⭐ |
 | **RoboMorpher** | RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction. | [arXiv](https://arxiv.org/abs/2611.24816) · [Project](https://robomorpher.github.io/) | ⭐⭐⭐ |
 | **VSpark** | VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.22666) | ⭐⭐⭐ |
 | **SALA** | SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models. | [arXiv](https://arxiv.org/abs/2611.17110) · [Project](https://sala-vla.github.io/) | ⭐⭐⭐ |
@@ -305,7 +307,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Coupling Execution Horizon and Sampling Depth** | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies. | [arXiv](https://arxiv.org/abs/2610.32102) | ⭐⭐⭐ |
 | **When One Step Is Enough** | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2610.30735) | ⭐⭐⭐ |
 | **PACT-VLA** | PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations. | [arXiv](https://arxiv.org/abs/2610.28019) | ⭐⭐⭐ |
-| **PLaW-VLA** | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
