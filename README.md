@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--22-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -168,10 +168,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Robustness and Security
 
-![Updated](https://img.shields.io/badge/Updated-2026--10--20-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--22-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **SteerTrace** | SteerTrace: Tracing How Target Attacks Steer World Action Models. | [arXiv](https://arxiv.org/abs/2611.25719) | ⭐⭐⭐ |
 | **PICA-WAM** | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models. | [arXiv](https://arxiv.org/abs/2610.26813) · [Code](https://github.com/YudeZou/PICA-WAM-release) | ⭐⭐⭐ |
 | **TAPDreamer** | TAPDreamer: Transferable Adversarial Patches for World Action Models. | [arXiv](https://arxiv.org/abs/2610.06814) · [Project](https://tapdreamer.github.io/) | ⭐⭐⭐ |
 
