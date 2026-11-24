@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **EvoTER** | EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection. | [arXiv](https://arxiv.org/abs/2611.27797) · [Project](https://evoter-project.github.io/) | ⭐⭐⭐ |
 | **PGX** | PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2611.26596) · [Project](https://kl-research.github.io/pgx) | ⭐⭐⭐ |
 | **F³** | F³: What Makes Good Experience in World-Action Models? | [arXiv](https://arxiv.org/abs/2611.24708) | ⭐⭐⭐ |
 | **InteractVLA** | InteractVLA: Turning VLAs into Interactive Tools for Agentic Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2611.22584) · [Project](https://lingwupro.github.io/InteractVLA/) · [Code](https://github.com/LingwuPro/InteractVLA) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **RoboACE** | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement. | [arXiv](https://arxiv.org/abs/2611.13034) · [Code](https://github.com/DeLin1001/RoboACE) | ⭐⭐⭐ |
 | **RoboScript** | World In-Context Learning for Agentic Robot Manipulation. | [arXiv](https://arxiv.org/abs/2611.12885) · [Code](https://github.com/ArcheOne-AI/RoboScript) | ⭐⭐⭐ |
 | **AMP1** | On Agentic Manipulation Policies. | [arXiv](https://arxiv.org/abs/2611.09892) | ⭐⭐⭐ |
-| **PAVE** | Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks. | [arXiv](https://arxiv.org/abs/2611.08075) · [Project](https://proroklab.github.io/PAVE/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--22-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -178,10 +178,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Video-Generation-Based WAM
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--14-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **Ego4Gen** | Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface. | [arXiv](https://arxiv.org/abs/2611.27513) | ⭐⭐⭐ |
 | **FLUX-mimic** | Video-Action Models for Data-Efficient Industrial Manipulation. | [arXiv](https://arxiv.org/abs/2611.15974) | ⭐⭐⭐ |
 | **Rolling-WAM** | Rolling-WAM: World Action Models with Rolling Imagination. | [arXiv](https://arxiv.org/abs/2609.30247) · [Project](https://rolling-wam.github.io/) | ⭐⭐⭐ |
 | **CLAP** | CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators. | [arXiv](https://arxiv.org/abs/2608.27406) · [Project](https://omni-clap.github.io/) | ⭐⭐⭐ |
@@ -191,7 +192,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **IMPACT** | IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training. | [arXiv](https://arxiv.org/abs/2609.00161) | ⭐⭐⭐ |
 | **AcrossVAM1.0** | AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction. | [arXiv](https://arxiv.org/abs/2608.28491) | ⭐⭐⭐ |
 | **Zero-WAM** | Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. | [arXiv](https://arxiv.org/abs/2608.26103) · [Project](https://robbyant-research.github.io/) | ⭐⭐⭐ |
-| **WorldSync** | Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning. | [arXiv](https://arxiv.org/abs/2608.24885) | ⭐⭐⭐ |
 
 ### VLM-Based WAM
 
@@ -242,7 +242,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -252,6 +252,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **GAC** | Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.27804) · [Project](https://yanyunn.github.io/GAC/) | ⭐⭐⭐ |
 | **R2-VLA** | Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.26438) | ⭐⭐⭐ |
 | **RECLAIM** | RECLAIM: Robot-Vision-Informed Adversarial Patch Defense via Embodied Attention Feedback. | [arXiv](https://arxiv.org/abs/2611.24494) | ⭐⭐⭐ |
 | **Fly as Instructed** | Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation. | [arXiv](https://arxiv.org/abs/2611.22883) | ⭐⭐⭐ |
@@ -261,7 +262,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **Temporal Shortcuts** | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies. | [arXiv](https://arxiv.org/abs/2611.14488) · [Code](https://github.com/bennidict23/memory-clock) | ⭐⭐⭐ |
 | **Closed-Form Instruction Distillation** | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading. | [arXiv](https://arxiv.org/abs/2611.11894) · [Project](https://ali-adeeb.com/weightsmith/) · [Code](https://github.com/adeeb10abbas/weightsmith) | ⭐⭐⭐ |
 | **Weight-Space Debugging** | Can LLMs Debug Robots by Editing Their Weights? | [arXiv](https://arxiv.org/abs/2611.09376) | ⭐⭐⭐ |
-| **OopsieRecover** | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions. | [arXiv](https://arxiv.org/abs/2611.08462) · [Project](https://robin-lab.cs.utexas.edu/oopsierecover/) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -269,7 +269,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -294,10 +294,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--24-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **LS-MBPO** | Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models. | [arXiv](https://arxiv.org/abs/2611.27645) | ⭐⭐⭐ |
 | **FastRoverVLA** | FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.26242) · [Project](https://adept-org.github.io/FastRoverVLA/) · [Code](https://github.com/ADEPT-ORG/FastRoverVLA) | ⭐⭐⭐ |
 | **RoboMorpher** | RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction. | [arXiv](https://arxiv.org/abs/2611.24816) · [Project](https://robomorpher.github.io/) | ⭐⭐⭐ |
 | **VSpark** | VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.22666) | ⭐⭐⭐ |
@@ -307,7 +308,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **JADE** | Vision-Language Models Are Joint Denoisers in Robotic Action Generation. | [arXiv](https://arxiv.org/abs/2611.01215) | ⭐⭐⭐ |
 | **Coupling Execution Horizon and Sampling Depth** | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies. | [arXiv](https://arxiv.org/abs/2610.32102) | ⭐⭐⭐ |
 | **When One Step Is Enough** | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2610.30735) | ⭐⭐⭐ |
-| **PACT-VLA** | PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations. | [arXiv](https://arxiv.org/abs/2610.28019) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 

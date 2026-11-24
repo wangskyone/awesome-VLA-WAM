@@ -1,4 +1,4 @@
-# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--21-0A7F5A?labelColor=333333)
+# Efficient VLA ![Updated](https://img.shields.io/badge/Updated-2026--11--24-0A7F5A?labelColor=333333)
 
 Full retained list for the `Efficient VLA` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries per direct list or subsection. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -40,10 +40,11 @@ The README keeps only the latest 10 entries per direct list or subsection. Rows 
 | FLOWER | FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. | [arXiv](https://arxiv.org/abs/2509.04996) · [Website](https://intuitive-robots.github.io/flower_vla/) |
 | TinyVLA | TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2409.12514) · [Website](https://tiny-vla.github.io) |
 
-## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--11--21-0A7F5A?labelColor=333333)
+## Tokenization, Fine-Tuning, and Deployment-Friendly VLAs ![Updated](https://img.shields.io/badge/Updated-2026--11--24-0A7F5A?labelColor=333333)
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| PACT-VLA | PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations. | [arXiv](https://arxiv.org/abs/2610.28019) |
 | PLaW-VLA | PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2610.12285) |
 | FastOPD | FastOPD: On-Policy Distillation for Lightweight VLA Deployment. | [arXiv](https://arxiv.org/abs/2610.02832) · [Project](https://fastopd.github.io) |
 | Discrete Forcing | Discrete Forcing: Infusing Discrete Guidance into Continuous Denoising for Few-Step Action Experts. | [arXiv](https://arxiv.org/abs/2609.39526) |
