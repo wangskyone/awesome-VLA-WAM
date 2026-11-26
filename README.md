@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--25-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **PyRUA-Dex** | PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents. | [arXiv](https://arxiv.org/abs/2611.33144) · [Project](https://vme0522.github.io/PyRUA-Dex/) · [Code](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex) | ⭐⭐⭐ |
 | **ACAP** | ACAP: Asynchronous Coding Agents for Efficient Robot Control. | [arXiv](https://arxiv.org/abs/2611.31205) · [Project](https://projects.zxhezexin.com/acap/) | ⭐⭐⭐ |
 | **EvoTER** | EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection. | [arXiv](https://arxiv.org/abs/2611.27797) · [Project](https://evoter-project.github.io/) | ⭐⭐⭐ |
 | **PGX** | PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation. | [arXiv](https://arxiv.org/abs/2611.26596) · [Project](https://kl-research.github.io/pgx) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **PEAR** | Training Reasoning Models in Simulation to Natively Use Real Robots. | [arXiv](https://arxiv.org/abs/2611.18562) · [Code](https://github.com/mit-han-lab/pear) | ⭐⭐⭐ |
 | **NSDL** | NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning. | [arXiv](https://arxiv.org/abs/2611.16671) · [Code](https://github.com/Xincheng-Tan/NSDL) | ⭐⭐⭐ |
 | **RoboACE** | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement. | [arXiv](https://arxiv.org/abs/2611.13034) · [Code](https://github.com/DeLin1001/RoboACE) | ⭐⭐⭐ |
-| **RoboScript** | World In-Context Learning for Agentic Robot Manipulation. | [arXiv](https://arxiv.org/abs/2611.12885) · [Code](https://github.com/ArcheOne-AI/RoboScript) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--25-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -212,10 +212,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Efficient Inference for WAMs
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--21-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **iWAM** | iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction. | [arXiv](https://arxiv.org/abs/2611.33141) | ⭐⭐⭐ |
 | **LAQ** | Don't Lose the Future: Latent-Aware 4-Bit Quantization of World Action Models. | [arXiv](https://arxiv.org/abs/2611.25614) | ⭐⭐⭐ |
 | **CF-Prune** | Complementary Future Token Pruning for World Action Models. | [arXiv](https://arxiv.org/abs/2610.19957) | ⭐⭐⭐ |
 
@@ -242,7 +243,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--25-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -252,6 +253,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **β-Data** | Exploratory Midtraining for Robot Policies. | [arXiv](https://arxiv.org/abs/2611.33130) · [Project](https://kshitiz-1225.github.io/exploratory-midtraining-robot-policies/) | ⭐⭐⭐ |
 | **EmboEagle** | EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2611.31173) · [Code](https://github.com/Markus-xu/EmboEagle) | ⭐⭐⭐ |
 | **GAC** | Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.27804) · [Project](https://yanyunn.github.io/GAC/) | ⭐⭐⭐ |
 | **R2-VLA** | Risk-Controlled Test-Time Adaptation for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.26438) | ⭐⭐⭐ |
@@ -261,7 +263,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **ESI** | ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents. | [arXiv](https://arxiv.org/abs/2611.18176) | ⭐⭐⭐ |
 | **MOSAIC** | MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes. | [arXiv](https://arxiv.org/abs/2611.15937) · [Project](https://mmahdavian.github.io/MOSAIC/) | ⭐⭐⭐ |
 | **Temporal Shortcuts** | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies. | [arXiv](https://arxiv.org/abs/2611.14488) · [Code](https://github.com/bennidict23/memory-clock) | ⭐⭐⭐ |
-| **Closed-Form Instruction Distillation** | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading. | [arXiv](https://arxiv.org/abs/2611.11894) · [Project](https://ali-adeeb.com/weightsmith/) · [Code](https://github.com/adeeb10abbas/weightsmith) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -269,7 +270,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--25-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -277,10 +278,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Compression, Adaptation, and Model Merging
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--25-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **TauPrune-VLA** | Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.31954) · [Project](https://lin0e0.github.io/TauPrune-VLA/) | ⭐⭐⭐ |
 | **MoOP** | Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action. | [arXiv](https://arxiv.org/abs/2611.31240) · [Project](https://cvlab-kaist.github.io/MoOP/) · [Code](https://github.com/cvlab-kaist/MoOP) | ⭐⭐⭐ |
 | **POKE** | POKE: Probe Offline, Keep Efficiently for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2611.21033) | ⭐⭐⭐ |
 | **Be My Eye** | Be My Eye: Learning to See Beyond a Robot's Own Perspective. | [arXiv](https://arxiv.org/abs/2611.12295) | ⭐⭐⭐ |
@@ -290,7 +292,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **SPAR** | SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.26487) | ⭐⭐⭐ |
 | **MambaAct** | MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models. | [arXiv](https://arxiv.org/abs/2610.22951) · [Code](https://github.com/giakhuyendihoc/MambaAct) | ⭐⭐⭐ |
 | **REKI** | REKI: Registering Knowledge in VLAs. | [arXiv](https://arxiv.org/abs/2610.22178) · [Code](https://github.com/kyutai-labs/reki) | ⭐⭐⭐ |
-| **NSL** | Noise Space Learning for VLA Adaptation. | [arXiv](https://arxiv.org/abs/2610.13943) | ⭐⭐⭐ |
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
