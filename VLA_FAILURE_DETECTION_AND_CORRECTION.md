@@ -1,4 +1,4 @@
-# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--11--26-0A7F5A?labelColor=333333)
+# VLA Failure Detection and Correction ![Updated](https://img.shields.io/badge/Updated-2026--11--27-0A7F5A?labelColor=333333)
 
 Full retained list for the `VLA Failure Detection and Correction` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| Temporal Shortcuts | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies. | [arXiv](https://arxiv.org/abs/2611.14488) · [Code](https://github.com/bennidict23/memory-clock) |
 | Closed-Form Instruction Distillation | Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading. | [arXiv](https://arxiv.org/abs/2611.11894) · [Project](https://ali-adeeb.com/weightsmith/) · [Code](https://github.com/adeeb10abbas/weightsmith) |
 | Weight-Space Debugging | Can LLMs Debug Robots by Editing Their Weights? | [arXiv](https://arxiv.org/abs/2611.09376) |
 | OopsieRecover | OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions. | [arXiv](https://arxiv.org/abs/2611.08462) · [Project](https://robin-lab.cs.utexas.edu/oopsierecover/) |

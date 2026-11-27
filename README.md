@@ -115,7 +115,7 @@ the arXiv identifiers in this README with
 
 ## Agentic Robotics (New Trend)
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--26-7D5CC6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-7D5CC6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](AGENTIC_ROBOTICS.md)
 
@@ -127,6 +127,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **FineDex** | FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation. | [arXiv](https://arxiv.org/abs/2611.34884) · [Project](https://finedex.github.io/) · [Code](https://github.com/zyjOrz/FineDex) | ⭐⭐⭐ |
 | **PyRUA-Dex** | PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents. | [arXiv](https://arxiv.org/abs/2611.33144) · [Project](https://vme0522.github.io/PyRUA-Dex/) · [Code](https://github.com/DAGroup-PKU/PyRUA-Lean/tree/dex) | ⭐⭐⭐ |
 | **ACAP** | ACAP: Asynchronous Coding Agents for Efficient Robot Control. | [arXiv](https://arxiv.org/abs/2611.31205) · [Project](https://projects.zxhezexin.com/acap/) | ⭐⭐⭐ |
 | **EvoTER** | EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection. | [arXiv](https://arxiv.org/abs/2611.27797) · [Project](https://evoter-project.github.io/) | ⭐⭐⭐ |
@@ -136,7 +137,6 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 | **Lazy-MOSAIC** | Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models. | [arXiv](https://arxiv.org/abs/2611.21517) · [Project](https://skill-mosaic.github.io) | ⭐⭐⭐ |
 | **PEAR** | Training Reasoning Models in Simulation to Natively Use Real Robots. | [arXiv](https://arxiv.org/abs/2611.18562) · [Code](https://github.com/mit-han-lab/pear) | ⭐⭐⭐ |
 | **NSDL** | NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning. | [arXiv](https://arxiv.org/abs/2611.16671) · [Code](https://github.com/Xincheng-Tan/NSDL) | ⭐⭐⭐ |
-| **RoboACE** | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement. | [arXiv](https://arxiv.org/abs/2611.13034) · [Code](https://github.com/DeLin1001/RoboACE) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -160,7 +160,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## World Action Models
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--26-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-1FA7A3?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](WORLD_ACTION_MODELS.md)
 
@@ -168,10 +168,11 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ### Robustness and Security
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--22-1FA7A3?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-1FA7A3?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **HOG-WAM** | HOG-WAM: Improving Visual Robustness through Future Gradient Prediction. | [arXiv](https://arxiv.org/abs/2611.34811) · [Code](https://github.com/iPPLab/HOG-WAM) | ⭐⭐⭐ |
 | **SteerTrace** | SteerTrace: Tracing How Target Attacks Steer World Action Models. | [arXiv](https://arxiv.org/abs/2611.25719) | ⭐⭐⭐ |
 | **PICA-WAM** | PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models. | [arXiv](https://arxiv.org/abs/2610.26813) · [Code](https://github.com/YudeZou/PICA-WAM-release) | ⭐⭐⭐ |
 | **TAPDreamer** | TAPDreamer: Transferable Adversarial Patches for World Action Models. | [arXiv](https://arxiv.org/abs/2610.06814) · [Project](https://tapdreamer.github.io/) | ⭐⭐⭐ |
@@ -243,7 +244,7 @@ self-improvement; pure navigation-only or VLN policies are out of scope.
 
 ## VLA Failure Detection and Correction
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--26-E16A5C?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-E16A5C?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](VLA_FAILURE_DETECTION_AND_CORRECTION.md)
 
@@ -253,6 +254,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **Cairn** | Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs. | [arXiv](https://arxiv.org/abs/2611.34914) | ⭐⭐⭐ |
 | **β-Data** | Exploratory Midtraining for Robot Policies. | [arXiv](https://arxiv.org/abs/2611.33130) · [Project](https://kshitiz-1225.github.io/exploratory-midtraining-robot-policies/) | ⭐⭐⭐ |
 | **EmboEagle** | EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation. | [arXiv](https://arxiv.org/abs/2611.31173) · [Code](https://github.com/Markus-xu/EmboEagle) | ⭐⭐⭐ |
 | **GAC** | Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.27804) · [Project](https://yanyunn.github.io/GAC/) | ⭐⭐⭐ |
@@ -262,7 +264,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **FAVR** | FAVR: Flow-Aware Visual Residual Alignment for Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2611.20971) | ⭐⭐⭐ |
 | **ESI** | ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents. | [arXiv](https://arxiv.org/abs/2611.18176) | ⭐⭐⭐ |
 | **MOSAIC** | MOSAIC: Modular Obstacle and Spatial-Aware Framework for Manipulation In Cluttered Scenes. | [arXiv](https://arxiv.org/abs/2611.15937) · [Project](https://mmahdavian.github.io/MOSAIC/) | ⭐⭐⭐ |
-| **Temporal Shortcuts** | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies. | [arXiv](https://arxiv.org/abs/2611.14488) · [Code](https://github.com/bennidict23/memory-clock) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 
@@ -270,7 +271,7 @@ self-evaluation, or policy/world-model co-improvement.
 
 ## Efficient VLA
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--26-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-3F88D6?style=flat-square&labelColor=253449)
 
 [Browse the full archive →](EFFICIENT_VLA.md)
 
@@ -295,10 +296,11 @@ self-evaluation, or policy/world-model co-improvement.
 
 ### Tokenization, Fine-Tuning, and Deployment-Friendly VLAs
 
-![Updated](https://img.shields.io/badge/Updated-2026--11--24-3F88D6?style=flat-square&labelColor=253449)
+![Updated](https://img.shields.io/badge/Updated-2026--11--27-3F88D6?style=flat-square&labelColor=253449)
 
 | Paper | Title | Links | Relevance |
 | :--- | :--- | :--- | :---: |
+| **RePace** | RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies. | [arXiv](https://arxiv.org/abs/2611.34864) | ⭐⭐⭐ |
 | **LS-MBPO** | Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models. | [arXiv](https://arxiv.org/abs/2611.27645) | ⭐⭐⭐ |
 | **FastRoverVLA** | FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving. | [arXiv](https://arxiv.org/abs/2611.26242) · [Project](https://adept-org.github.io/FastRoverVLA/) · [Code](https://github.com/ADEPT-ORG/FastRoverVLA) | ⭐⭐⭐ |
 | **RoboMorpher** | RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction. | [arXiv](https://arxiv.org/abs/2611.24816) · [Project](https://robomorpher.github.io/) | ⭐⭐⭐ |
@@ -308,7 +310,6 @@ self-evaluation, or policy/world-model co-improvement.
 | **SURE** | SURE: Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning. | [arXiv](https://arxiv.org/abs/2611.09684) | ⭐⭐⭐ |
 | **JADE** | Vision-Language Models Are Joint Denoisers in Robotic Action Generation. | [arXiv](https://arxiv.org/abs/2611.01215) | ⭐⭐⭐ |
 | **Coupling Execution Horizon and Sampling Depth** | Coupling Execution Horizon and Sampling Depth in Flow-Matching VLA Policies. | [arXiv](https://arxiv.org/abs/2610.32102) | ⭐⭐⭐ |
-| **When One Step Is Enough** | When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies. | [arXiv](https://arxiv.org/abs/2610.30735) | ⭐⭐⭐ |
 
 <p align="right"><a href="#contents">↑ Back to contents</a></p>
 

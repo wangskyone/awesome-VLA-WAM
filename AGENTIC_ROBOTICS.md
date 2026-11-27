@@ -1,4 +1,4 @@
-# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--11--26-0A7F5A?labelColor=333333)
+# Agentic Robotics (New Trend) ![Updated](https://img.shields.io/badge/Updated-2026--11--27-0A7F5A?labelColor=333333)
 
 Full retained list for the `Agentic Robotics (New Trend)` section of [Awesome VLA-WAM](README.md).
 The README keeps only the latest 10 entries in the main section. Rows below are sorted from newest to oldest by available arXiv identifier.
@@ -10,6 +10,7 @@ libraries, policy self-improvement, and long-horizon execution.
 
 | Paper | Title | Links |
 | --- | --- | --- |
+| RoboACE | RoboACE: Adversarial Co-Evolution for Robot Self-Improvement. | [arXiv](https://arxiv.org/abs/2611.13034) · [Code](https://github.com/DeLin1001/RoboACE) |
 | RoboScript | World In-Context Learning for Agentic Robot Manipulation. | [arXiv](https://arxiv.org/abs/2611.12885) · [Code](https://github.com/ArcheOne-AI/RoboScript) |
 | AMP1 | On Agentic Manipulation Policies. | [arXiv](https://arxiv.org/abs/2611.09892) |
 | PAVE | Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks. | [arXiv](https://arxiv.org/abs/2611.08075) · [Project](https://proroklab.github.io/PAVE/) |
